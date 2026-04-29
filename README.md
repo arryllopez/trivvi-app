@@ -4,7 +4,7 @@ A food discovery app for Toronto that gives you a personalized restaurant recomm
 
 ## Tech Stack
 - Frontend  : either react Native or Swift/Kotlin 
-- Backend : Golang with python service 
+- Backend : Golang with Python service 
 - Database : PostgreSQL
 - Deployment : GCP AWS or Azure or whatever
 - ML: Python, FastAPI, scikit-learn, scipy
