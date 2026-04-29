@@ -1,0 +1,301 @@
+restaurant_id,name,neighbourhood,cuisine_type,price_range,avg_rating,tags,lat,lng,ttc_accessible,halal_certified,kosher_certified
+R0001,Cowan's Caribbean Bistro,Kensington Market,Caribbean,1,4.2,vegetarian-friendly|group-friendly|vegan-friendly,43.756064,-79.47143,True,False,False
+R0002,Smith's Indian House,Midtown,Indian,2,3.8,romantic|brunch|late-night|date-night|hidden-gem,43.749225,-79.422534,False,True,False
+R0003,Hampton's Italian Corner,Yorkville,Italian,4,4.3,group-friendly|vegetarian-friendly|delivery|vegan-friendly|live-music,43.732633,-79.314004,True,False,False
+R0004,Reynolds's Caribbean Grill,Danforth,Caribbean,2,4.8,vegetarian-friendly|delivery|brunch,43.679196,-79.517658,True,False,False
+R0005,Clarke's Filipino Corner,Midtown,Filipino,2,3.8,quick-bites|date-night|trendy|delivery|brunch|group-friendly,43.642138,-79.362206,True,False,False
+R0006,White's Portuguese Table,St. Lawrence Market,Portuguese,4,3.8,romantic|takeout-only|family-friendly,43.683627,-79.465033,True,False,False
+R0007,Oliver's American Grill,Scarborough,American,2,4.8,delivery|dine-in|quick-bites|BYOB|cash-only|patio,43.674666,-79.376316,True,False,False
+R0008,Robbins's Japanese Garden,The Annex,Japanese,2,4.4,group-friendly|late-night|vegetarian-friendly|brunch,43.731301,-79.408946,True,False,False
+R0009,Navarro's Taiwanese Corner,Roncesvalles,Taiwanese,4,3.6,vegetarian-friendly|live-music|outdoor-seating|family-friendly|BYOB|date-night,43.795221,-79.326651,False,False,False
+R0010,Haynes's Thai Kitchen,Chinatown,Thai,2,4.2,quick-bites|patio|sports-bar|vegan-friendly,43.787947,-79.293958,True,False,False
+R0011,Padilla's Chinese Bar,Liberty Village,Chinese,2,3.6,sports-bar|hidden-gem|family-friendly|group-friendly|live-music|outdoor-seating,43.790964,-79.493764,False,False,False
+R0012,Spears's Japanese Kitchen,Kensington Market,Japanese,4,3.6,late-night|vegan-friendly|patio,43.730012,-79.475568,False,False,False
+R0013,Bell's Canadian Kitchen,Little India,Canadian,3,4.0,romantic|cash-only|quick-bites|sports-bar|hidden-gem|vegetarian-friendly,43.72167,-79.337461,True,False,False
+R0014,Davidson's Korean House,Midtown,Korean,2,2.8,takeout-only|vegetarian-friendly|quick-bites|family-friendly|outdoor-seating,43.797308,-79.512443,True,False,False
+R0015,Peck's Greek Grill,Forest Hill,Greek,2,2.9,late-night|vegan-friendly|quick-bites|date-night|hidden-gem|group-friendly,43.775514,-79.512586,True,False,False
+R0016,Pugh's Ethiopian Corner,St. Lawrence Market,Ethiopian,1,3.6,cash-only|BYOB|family-friendly|live-music|group-friendly|late-night,43.763472,-79.46013,True,True,False
+R0017,Mays's Filipino Bar,Junction,Filipino,3,3.3,date-night|vegan-friendly,43.656764,-79.270982,True,False,False
+R0018,Martinez's Vietnamese House,Distillery District,Vietnamese,2,4.1,romantic|outdoor-seating|takeout-only|brunch|family-friendly|group-friendly,43.735295,-79.422617,True,False,False
+R0019,Rivera's Filipino Bistro,Little Italy,Filipino,3,3.4,vegetarian-friendly|vegan-friendly|group-friendly|family-friendly|brunch|romantic,43.631584,-79.366075,True,False,False
+R0020,Mitchell's Canadian Kitchen,Etobicoke,Canadian,2,3.1,late-night|group-friendly|live-music|vegetarian-friendly|BYOB|cash-only,43.797255,-79.314012,True,False,False
+R0021,Brown's Canadian Kitchen,Little India,Canadian,1,4.8,cash-only|brunch|patio|vegan-friendly|hidden-gem|sports-bar,43.746875,-79.301184,False,False,False
+R0022,Krause's American Grill,Scarborough,American,2,3.8,vegan-friendly|BYOB,43.749963,-79.382946,True,False,False
+R0023,Rice's Italian Grill,St. Lawrence Market,Italian,3,3.9,family-friendly|quick-bites|vegetarian-friendly|dine-in,43.795273,-79.528829,True,False,False
+R0024,Allen's Taiwanese Table,St. Lawrence Market,Taiwanese,3,3.0,date-night|takeout-only,43.767831,-79.293203,False,False,False
+R0025,Mason's French Grill,Chinatown,French,3,3.6,quick-bites|family-friendly|trendy|dine-in|live-music,43.695032,-79.529157,True,False,False
+R0026,Andrews's Taiwanese Kitchen,Danforth,Taiwanese,4,4.0,group-friendly|takeout-only|late-night|vegetarian-friendly|brunch,43.677451,-79.360385,True,False,False
+R0027,Flores's American Kitchen,King West,American,1,3.2,delivery|romantic,43.704187,-79.264414,True,False,False
+R0028,Wallace's Canadian Bar,Bloor West Village,Canadian,3,4.1,vegan-friendly|takeout-only|romantic|vegetarian-friendly|live-music,43.755296,-79.48483,True,False,False
+R0029,Moore's Italian Kitchen,The Annex,Italian,4,3.5,romantic|live-music|delivery|late-night|sports-bar|BYOB,43.745144,-79.287214,True,False,False
+R0030,Lozano's Canadian Corner,Junction,Canadian,3,3.7,vegan-friendly|live-music|outdoor-seating,43.710442,-79.287669,False,False,False
+R0031,Bush's Indian Table,Little India,Indian,2,3.5,sports-bar|vegan-friendly|trendy|hidden-gem|family-friendly,43.65505,-79.52706,True,False,False
+R0032,Wallace's American Kitchen,Danforth,American,2,5.0,date-night|outdoor-seating|trendy,43.780529,-79.322042,False,False,False
+R0033,Casey's Canadian Table,Scarborough,Canadian,3,3.9,sports-bar|outdoor-seating|hidden-gem|trendy|date-night,43.731227,-79.273989,False,False,False
+R0034,Smith's French Kitchen,Liberty Village,French,3,3.3,live-music|quick-bites,43.736547,-79.463113,True,False,False
+R0035,Arnold's Canadian Kitchen,Waterfront,Canadian,3,4.4,group-friendly|trendy|hidden-gem|patio,43.666372,-79.423837,False,False,False
+R0036,Wong's West African Garden,Danforth,West African,2,3.2,live-music|delivery|hidden-gem|quick-bites,43.727867,-79.406446,True,True,False
+R0037,Montes's Italian Grill,Greektown,Italian,3,4.0,group-friendly|late-night|delivery|romantic|vegan-friendly|takeout-only,43.772886,-79.282528,True,False,False
+R0038,Edwards's Mexican Garden,Danforth,Mexican,2,2.7,brunch|vegan-friendly|cash-only|late-night|patio,43.779539,-79.462088,True,False,False
+R0039,Mckinney's Korean Corner,Koreatown,Korean,4,3.1,quick-bites|BYOB|cash-only,43.663891,-79.534294,True,False,False
+R0040,George's Middle Eastern Corner,Bloor West Village,Middle Eastern,3,4.0,live-music|vegetarian-friendly|late-night,43.752121,-79.322218,False,True,False
+R0041,Hernandez's Japanese Bar,Waterfront,Japanese,3,4.3,sports-bar|vegetarian-friendly|patio|dine-in,43.771197,-79.472002,True,False,False
+R0042,Gardner's Portuguese Corner,Chinatown,Portuguese,3,4.0,BYOB|hidden-gem|date-night|outdoor-seating|brunch,43.703699,-79.438587,True,False,False
+R0043,Jensen's Mexican Garden,Koreatown,Mexican,2,3.8,quick-bites|trendy|delivery|takeout-only|late-night,43.771224,-79.515734,True,False,False
+R0044,James's Taiwanese Bar,Waterfront,Taiwanese,2,3.7,family-friendly|vegan-friendly|quick-bites|hidden-gem|cash-only|brunch,43.779618,-79.384379,True,False,False
+R0045,Bridges's Mexican Corner,The Annex,Mexican,2,3.0,dine-in|cash-only|group-friendly|outdoor-seating|sports-bar|family-friendly,43.747604,-79.454262,True,False,False
+R0046,Barnes's Chinese Kitchen,Little India,Chinese,2,3.5,family-friendly|sports-bar|cash-only,43.683643,-79.331993,False,False,False
+R0047,Castro's Portuguese Kitchen,Queen West,Portuguese,4,3.6,group-friendly|BYOB,43.668672,-79.489756,True,False,False
+R0048,Hall's Taiwanese Kitchen,Liberty Village,Taiwanese,1,4.5,cash-only|sports-bar|trendy|takeout-only,43.64744,-79.536566,False,False,False
+R0049,Maddox's Italian Kitchen,Little Italy,Italian,2,4.1,BYOB|romantic|live-music,43.728094,-79.347794,True,False,False
+R0050,Huerta's Middle Eastern Bar,Danforth,Middle Eastern,1,2.8,live-music|romantic|hidden-gem|sports-bar|patio,43.718837,-79.413856,False,True,False
+R0051,Huang's Japanese Table,Koreatown,Japanese,2,4.1,hidden-gem|trendy,43.659548,-79.518982,True,False,False
+R0052,Bailey's Greek Kitchen,Financial District,Greek,2,3.7,family-friendly|hidden-gem|vegetarian-friendly|quick-bites|BYOB|trendy,43.669682,-79.465925,True,False,False
+R0053,Rivas's Portuguese Corner,Queen West,Portuguese,1,3.5,delivery|brunch|outdoor-seating|cash-only,43.704656,-79.408765,True,False,False
+R0054,Smith's Japanese Kitchen,Financial District,Japanese,3,4.3,brunch|romantic,43.772113,-79.378944,True,False,False
+R0055,Thomas's Chinese Garden,North York,Chinese,3,4.5,cash-only|dine-in,43.7041,-79.312011,False,False,False
+R0056,Gregory's Ethiopian Table,The Annex,Ethiopian,3,4.5,vegan-friendly|takeout-only|brunch|romantic|vegetarian-friendly,43.768306,-79.385973,False,True,False
+R0057,Adams's Greek Table,Distillery District,Greek,4,3.4,trendy|patio|family-friendly|brunch|BYOB,43.661889,-79.438702,True,True,False
+R0058,Mann's French House,Waterfront,French,3,3.7,hidden-gem|vegan-friendly|quick-bites|vegetarian-friendly|trendy|patio,43.656924,-79.385765,True,False,False
+R0059,Hall's Portuguese Grill,Liberty Village,Portuguese,2,4.1,family-friendly|outdoor-seating|BYOB|vegan-friendly|brunch,43.671434,-79.385646,False,False,False
+R0060,Kennedy's Ethiopian Grill,Queen West,Ethiopian,2,4.5,BYOB|trendy|group-friendly|cash-only|dine-in,43.772371,-79.377621,True,True,False
+R0061,Vincent's Canadian Grill,North York,Canadian,4,3.6,patio|takeout-only|cash-only|delivery|outdoor-seating,43.695105,-79.300316,False,False,False
+R0062,Estrada's Thai Bar,North York,Thai,4,3.8,vegetarian-friendly|outdoor-seating|trendy|late-night|BYOB,43.686439,-79.511898,True,False,False
+R0063,Delgado's Middle Eastern Garden,The Annex,Middle Eastern,4,3.2,delivery|takeout-only|cash-only|patio|vegan-friendly|vegetarian-friendly,43.740472,-79.301506,False,True,True
+R0064,Nash's Caribbean Kitchen,Forest Hill,Caribbean,2,3.2,late-night|patio|takeout-only|romantic,43.647086,-79.493418,True,False,False
+R0065,Howe's French Garden,Greektown,French,3,4.4,sports-bar|quick-bites|cash-only|BYOB|romantic,43.659762,-79.369342,True,False,False
+R0066,Henderson's Ethiopian Garden,Scarborough,Ethiopian,2,4.7,romantic|live-music|hidden-gem|brunch,43.656856,-79.416316,True,True,False
+R0067,Callahan's Vietnamese Kitchen,North York,Vietnamese,3,3.9,delivery|brunch,43.680298,-79.344202,False,False,False
+R0068,Knight's American Corner,Cabbagetown,American,2,4.5,sports-bar|dine-in|quick-bites,43.783706,-79.459866,False,False,False
+R0069,Morse's Chinese Kitchen,Chinatown,Chinese,2,4.1,trendy|patio|dine-in|BYOB,43.783579,-79.359025,True,False,False
+R0070,Delgado's Vietnamese Garden,Yorkville,Vietnamese,3,3.5,brunch|cash-only|live-music,43.720245,-79.284224,True,False,False
+R0071,Thomas's Indian Kitchen,Financial District,Indian,2,4.1,dine-in|vegan-friendly|delivery|late-night|brunch|cash-only,43.753117,-79.265616,False,True,False
+R0072,Daniels's Caribbean Corner,Yorkville,Caribbean,2,4.8,sports-bar|group-friendly,43.648419,-79.47453,True,False,False
+R0073,Lopez's Mexican Kitchen,Leslieville,Mexican,2,3.9,live-music|cash-only,43.649835,-79.527303,True,False,False
+R0074,Brown's Pizza Garden,Waterfront,Pizza,1,4.8,hidden-gem|vegetarian-friendly|cash-only,43.790816,-79.422645,True,False,False
+R0075,Russell's West African Grill,Chinatown,West African,3,2.3,patio|delivery|brunch|family-friendly,43.796758,-79.437146,True,True,False
+R0076,Warner's Pizza Corner,Distillery District,Pizza,2,4.4,romantic|family-friendly|vegan-friendly,43.763755,-79.471801,True,False,False
+R0077,Watkins's Chinese Bistro,Thorncliffe Park,Chinese,3,4.0,BYOB|group-friendly|brunch,43.731317,-79.462363,True,True,False
+R0078,Walker's Indian Table,King West,Indian,2,3.7,hidden-gem|outdoor-seating|vegetarian-friendly,43.632683,-79.465697,True,False,False
+R0079,Bates's Indian Bar,Etobicoke,Indian,1,4.0,live-music|trendy|late-night|patio|cash-only|hidden-gem,43.637372,-79.320696,False,True,False
+R0080,Cooper's Mexican Table,Little Portugal,Mexican,1,2.7,group-friendly|takeout-only|delivery|outdoor-seating|live-music|quick-bites,43.641166,-79.462996,True,False,False
+R0081,Chapman's French Bar,Bloor West Village,French,2,3.8,hidden-gem|takeout-only|trendy,43.777134,-79.41958,True,False,False
+R0082,Cox's Chinese Garden,Liberty Village,Chinese,3,4.1,hidden-gem|vegetarian-friendly,43.641413,-79.307104,True,False,False
+R0083,Grant's Mexican House,Chinatown,Mexican,2,4.8,patio|live-music|romantic|dine-in|vegetarian-friendly,43.699837,-79.29539,True,False,False
+R0084,Cochran's Vietnamese Kitchen,Chinatown,Vietnamese,2,3.6,group-friendly|sports-bar|late-night|brunch|romantic,43.759643,-79.379252,True,False,False
+R0085,Adams's Taiwanese Kitchen,North York,Taiwanese,2,3.4,vegan-friendly|outdoor-seating,43.741749,-79.520516,True,False,False
+R0086,Alvarez's French Kitchen,North York,French,4,3.6,date-night|patio|vegan-friendly,43.731358,-79.292664,True,False,False
+R0087,Gutierrez's American Bistro,Chinatown,American,1,4.4,cash-only|outdoor-seating|live-music|patio|quick-bites|family-friendly,43.688679,-79.508951,True,False,False
+R0088,Moore's Ethiopian Kitchen,King West,Ethiopian,3,4.1,date-night|BYOB|delivery|quick-bites|dine-in,43.650397,-79.400732,True,True,False
+R0089,Wells's West African Kitchen,North York,West African,3,3.6,live-music|vegetarian-friendly|delivery|late-night|takeout-only,43.702978,-79.426762,True,False,False
+R0090,Johnson's Greek Bistro,Chinatown,Greek,3,4.2,vegan-friendly|delivery|live-music|takeout-only|quick-bites|date-night,43.671364,-79.375116,True,False,False
+R0091,Parsons's Mexican Kitchen,Bloor West Village,Mexican,2,4.0,quick-bites|vegetarian-friendly|BYOB,43.792898,-79.359276,True,False,False
+R0092,Mullen's Pizza Kitchen,Midtown,Pizza,2,4.5,trendy|romantic|takeout-only|group-friendly|BYOB|quick-bites,43.714,-79.328755,True,False,False
+R0093,Merritt's Thai Corner,Queen West,Thai,2,3.5,live-music|vegan-friendly|romantic|outdoor-seating,43.708496,-79.52947,True,False,False
+R0094,Holder's Portuguese Kitchen,Midtown,Portuguese,3,3.7,BYOB|patio|trendy|vegetarian-friendly|takeout-only|dine-in,43.662001,-79.370598,True,False,False
+R0095,Wade's Thai Bar,Etobicoke,Thai,2,3.7,delivery|hidden-gem|takeout-only|patio,43.656987,-79.435601,True,False,False
+R0096,Thomas's Indian Garden,Forest Hill,Indian,4,3.0,takeout-only|vegan-friendly|BYOB,43.741616,-79.286224,True,True,False
+R0097,Smith's Filipino Bistro,Queen West,Filipino,2,4.1,BYOB|outdoor-seating|vegan-friendly|hidden-gem,43.725017,-79.359822,True,False,False
+R0098,Sullivan's Thai Kitchen,Koreatown,Thai,2,4.1,vegetarian-friendly|outdoor-seating|group-friendly|romantic,43.799996,-79.496615,True,False,False
+R0099,Scott's Chinese Bar,Cabbagetown,Chinese,2,3.9,trendy|patio|hidden-gem,43.747784,-79.365073,True,False,False
+R0100,David's Greek Corner,Scarborough,Greek,3,3.8,family-friendly|dine-in|trendy|group-friendly|live-music,43.670659,-79.269633,False,False,False
+R0101,Abbott's Chinese Kitchen,Roncesvalles,Chinese,3,3.1,group-friendly|vegetarian-friendly|outdoor-seating|romantic,43.638871,-79.405435,True,False,False
+R0102,Liu's Greek Garden,Koreatown,Greek,2,3.6,hidden-gem|patio,43.76884,-79.292304,False,False,False
+R0103,Martinez's Filipino Table,Cabbagetown,Filipino,3,3.7,BYOB|patio|live-music,43.7515,-79.446119,True,False,False
+R0104,Waters's Korean Kitchen,Little Italy,Korean,2,3.4,group-friendly|outdoor-seating|hidden-gem,43.633231,-79.479617,True,True,False
+R0105,Moore's French Garden,Parkdale,French,3,3.8,sports-bar|group-friendly|late-night|outdoor-seating|quick-bites,43.640677,-79.305727,True,False,False
+R0106,Price's Caribbean Bar,Little Italy,Caribbean,2,4.1,group-friendly|outdoor-seating|romantic|late-night|delivery|hidden-gem,43.718992,-79.439031,True,False,False
+R0107,Hayes's Japanese Grill,Koreatown,Japanese,3,5.0,takeout-only|BYOB|patio|dine-in|sports-bar|hidden-gem,43.7546,-79.364088,True,False,False
+R0108,Potts's Portuguese Kitchen,Little Italy,Portuguese,2,4.0,live-music|family-friendly,43.751728,-79.275791,True,False,False
+R0109,Harrison's Pizza Garden,Scarborough,Pizza,2,4.1,live-music|dine-in|patio,43.710478,-79.529746,True,False,False
+R0110,Williams's Greek Kitchen,The Annex,Greek,3,3.9,dine-in|outdoor-seating|brunch|vegan-friendly|hidden-gem,43.687636,-79.487691,False,False,False
+R0111,Vang's Japanese Garden,Financial District,Japanese,3,2.7,date-night|trendy|dine-in|romantic|patio,43.680259,-79.415144,True,False,False
+R0112,Howell's Korean Kitchen,Financial District,Korean,1,3.9,late-night|BYOB|trendy,43.738377,-79.438273,True,False,False
+R0113,Elliott's Vietnamese Table,Etobicoke,Vietnamese,2,3.9,dine-in|trendy|vegan-friendly|BYOB,43.656084,-79.414022,True,False,False
+R0114,Dunn's Chinese Table,Junction,Chinese,2,5.0,brunch|trendy|family-friendly|live-music,43.695788,-79.382732,True,False,False
+R0115,Reyes's Canadian Grill,Little Italy,Canadian,2,3.8,dine-in|vegan-friendly|group-friendly|live-music,43.767787,-79.269083,False,False,False
+R0116,Harris's Italian Corner,Koreatown,Italian,3,4.1,quick-bites|cash-only|late-night,43.650632,-79.483725,False,False,False
+R0117,Patterson's Japanese Bar,Queen West,Japanese,2,3.9,outdoor-seating|hidden-gem|romantic|vegan-friendly|BYOB,43.697687,-79.339259,True,False,False
+R0118,Matthews's Portuguese Corner,Scarborough,Portuguese,2,3.2,hidden-gem|outdoor-seating|patio,43.738765,-79.48905,True,False,False
+R0119,Porter's Mexican Corner,Junction,Mexican,2,4.6,family-friendly|group-friendly|brunch|BYOB,43.782137,-79.303139,True,False,False
+R0120,Hill's Chinese Kitchen,Financial District,Chinese,2,4.4,romantic|patio|late-night|vegan-friendly,43.736161,-79.28744,True,False,False
+R0121,Ayala's Italian Bar,Midtown,Italian,2,4.4,live-music|sports-bar|cash-only|quick-bites|delivery|BYOB,43.635149,-79.291081,True,False,False
+R0122,Walker's Middle Eastern Garden,King West,Middle Eastern,2,3.4,delivery|BYOB|dine-in|outdoor-seating,43.776452,-79.450591,True,True,False
+R0123,Fox's Korean Kitchen,The Annex,Korean,2,4.7,takeout-only|romantic|sports-bar,43.776908,-79.422922,False,False,False
+R0124,Valentine's Thai Kitchen,Little Italy,Thai,2,3.1,family-friendly|romantic|dine-in,43.79069,-79.398476,True,False,False
+R0125,Mann's Ethiopian Corner,Kensington Market,Ethiopian,2,4.3,dine-in|delivery|sports-bar|patio,43.774019,-79.41934,True,True,False
+R0126,Smith's Greek Corner,Scarborough,Greek,4,5.0,vegetarian-friendly|BYOB|sports-bar|delivery|dine-in|outdoor-seating,43.677553,-79.263055,True,False,False
+R0127,Garcia's Thai Corner,Distillery District,Thai,2,3.3,outdoor-seating|trendy|BYOB|sports-bar|group-friendly,43.636615,-79.340194,True,False,False
+R0128,Elliott's Middle Eastern Kitchen,Junction,Middle Eastern,2,3.6,live-music|cash-only|late-night|dine-in|takeout-only|romantic,43.770809,-79.390945,True,False,False
+R0129,Buckley's Caribbean Corner,Etobicoke,Caribbean,3,4.0,romantic|quick-bites|patio|cash-only|date-night|brunch,43.71068,-79.26922,True,False,False
+R0130,Jackson's Vietnamese Grill,Waterfront,Vietnamese,2,3.6,hidden-gem|BYOB|sports-bar|family-friendly,43.648682,-79.534698,True,False,False
+R0131,Munoz's Canadian Garden,Junction,Canadian,3,3.0,outdoor-seating|delivery|takeout-only|date-night|trendy,43.665248,-79.448986,True,False,False
+R0132,Esparza's French Kitchen,Roncesvalles,French,4,3.9,brunch|group-friendly|live-music,43.733713,-79.486166,True,False,False
+R0133,Barnes's Canadian Table,King West,Canadian,4,3.3,live-music|vegetarian-friendly|group-friendly|delivery,43.711567,-79.383063,False,False,False
+R0134,Malone's Ethiopian Bar,Waterfront,Ethiopian,2,4.2,cash-only|family-friendly|romantic|brunch,43.643435,-79.281277,True,False,False
+R0135,Smith's Korean Table,Thorncliffe Park,Korean,2,3.3,vegetarian-friendly|hidden-gem,43.720277,-79.361376,True,True,False
+R0136,Leach's Filipino Grill,Leslieville,Filipino,1,4.8,cash-only|family-friendly|live-music|takeout-only|group-friendly,43.740992,-79.293419,True,False,False
+R0137,Sosa's Filipino Kitchen,Greektown,Filipino,3,3.4,delivery|cash-only,43.70104,-79.305471,False,False,False
+R0138,Mcgee's Mexican House,Etobicoke,Mexican,3,3.7,trendy|group-friendly|outdoor-seating|cash-only,43.648241,-79.264762,True,False,False
+R0139,Morgan's Chinese Grill,Parkdale,Chinese,1,4.4,takeout-only|live-music,43.740209,-79.338793,True,False,False
+R0140,Gonzales's Italian Bistro,King West,Italian,2,3.2,BYOB|cash-only|takeout-only,43.644745,-79.352608,True,False,False
+R0141,Webster's Mexican Table,Bloor West Village,Mexican,3,4.0,quick-bites|patio|vegetarian-friendly|trendy,43.727389,-79.466765,False,False,False
+R0142,Davidson's Canadian Corner,Midtown,Canadian,3,4.7,quick-bites|sports-bar|BYOB|cash-only|group-friendly|romantic,43.785742,-79.457389,False,False,False
+R0143,Hanson's French Bistro,Cabbagetown,French,2,2.9,vegan-friendly|outdoor-seating|trendy|romantic|dine-in|patio,43.66713,-79.47071,True,False,False
+R0144,Cobb's Chinese Table,King West,Chinese,3,4.0,romantic|cash-only|vegan-friendly,43.775263,-79.416285,True,False,False
+R0145,Hendrix's Korean Bar,Parkdale,Korean,2,4.1,delivery|brunch,43.744371,-79.453713,True,False,False
+R0146,Nunez's Vietnamese Bar,Distillery District,Vietnamese,2,4.4,patio|live-music|hidden-gem|date-night|BYOB,43.788879,-79.520675,True,False,False
+R0147,Rivera's Taiwanese Kitchen,The Annex,Taiwanese,4,3.2,BYOB|dine-in|vegetarian-friendly|date-night|delivery|brunch,43.69386,-79.348836,False,False,False
+R0148,Peterson's Greek Kitchen,Bloor West Village,Greek,2,3.1,quick-bites|trendy|dine-in,43.722556,-79.391059,False,False,False
+R0149,Evans's Caribbean Kitchen,Etobicoke,Caribbean,2,4.2,quick-bites|family-friendly,43.760229,-79.292548,True,False,False
+R0150,Young's Indian House,Distillery District,Indian,3,4.1,patio|BYOB|outdoor-seating,43.698385,-79.474385,False,True,False
+R0151,Richard's Canadian Bar,King West,Canadian,4,4.1,quick-bites|hidden-gem|live-music|brunch|patio|outdoor-seating,43.670274,-79.294648,True,False,False
+R0152,Walker's Pizza Grill,Midtown,Pizza,3,4.1,hidden-gem|sports-bar|BYOB|live-music,43.744128,-79.319975,True,False,False
+R0153,Gomez's Chinese Kitchen,Parkdale,Chinese,2,3.5,group-friendly|outdoor-seating|BYOB|delivery|quick-bites,43.785506,-79.382532,True,False,False
+R0154,Cisneros's Vietnamese Kitchen,Cabbagetown,Vietnamese,3,4.0,sports-bar|patio|vegan-friendly|family-friendly|outdoor-seating|quick-bites,43.662382,-79.464831,True,False,False
+R0155,Phillips's Chinese Table,Bloor West Village,Chinese,2,4.1,quick-bites|family-friendly|delivery|sports-bar|takeout-only,43.649944,-79.26012,True,False,False
+R0156,Mcpherson's Taiwanese Kitchen,Parkdale,Taiwanese,4,3.5,takeout-only|family-friendly|dine-in|sports-bar|hidden-gem,43.646763,-79.265231,True,True,False
+R0157,Anderson's Vietnamese Bar,Bloor West Village,Vietnamese,2,5.0,quick-bites|delivery|sports-bar|cash-only,43.700988,-79.497325,False,False,False
+R0158,Johnson's American Kitchen,Parkdale,American,4,4.2,BYOB|group-friendly|cash-only,43.6586,-79.317407,False,False,False
+R0159,Wilson's Portuguese House,Little Italy,Portuguese,1,3.2,hidden-gem|BYOB,43.790682,-79.3529,True,False,False
+R0160,Ford's Japanese Kitchen,Midtown,Japanese,3,4.3,cash-only|late-night|romantic|hidden-gem|group-friendly,43.743348,-79.367375,True,False,False
+R0161,Pace's Canadian Kitchen,Leslieville,Canadian,2,3.3,vegetarian-friendly|outdoor-seating,43.767049,-79.285263,True,False,False
+R0162,Gibbs's Italian Grill,Yorkville,Italian,3,4.4,quick-bites|live-music|vegan-friendly,43.793081,-79.411481,True,False,False
+R0163,Brown's Thai Kitchen,Midtown,Thai,4,4.6,hidden-gem|takeout-only|vegetarian-friendly|outdoor-seating|patio,43.631607,-79.492013,True,False,False
+R0164,Fitzpatrick's Filipino Kitchen,Financial District,Filipino,3,3.4,patio|date-night|takeout-only|late-night|family-friendly|live-music,43.787349,-79.288193,False,False,False
+R0165,Rivera's Vietnamese Kitchen,North York,Vietnamese,1,4.5,takeout-only|delivery|BYOB|vegan-friendly|dine-in|late-night,43.771891,-79.431036,True,False,False
+R0166,Gardner's Middle Eastern Kitchen,Danforth,Middle Eastern,3,4.1,cash-only|quick-bites|dine-in|delivery|hidden-gem,43.685484,-79.362446,True,False,False
+R0167,Ayala's Indian Kitchen,Little Italy,Indian,1,4.4,delivery|takeout-only|dine-in,43.643946,-79.496818,True,True,False
+R0168,Farrell's Chinese Kitchen,Greektown,Chinese,2,5.0,hidden-gem|vegetarian-friendly|late-night|vegan-friendly|dine-in|brunch,43.703267,-79.384044,True,False,False
+R0169,Downs's Italian House,Little Italy,Italian,2,3.8,romantic|outdoor-seating|date-night,43.753223,-79.38333,True,False,False
+R0170,Reed's Greek House,Leslieville,Greek,2,3.4,brunch|quick-bites|cash-only|family-friendly,43.680958,-79.320853,False,False,False
+R0171,Daniel's Portuguese Kitchen,King West,Portuguese,2,3.4,BYOB|live-music|takeout-only|family-friendly|cash-only|date-night,43.704838,-79.419427,True,False,False
+R0172,Garcia's Pizza Table,St. Lawrence Market,Pizza,4,3.4,dine-in|vegetarian-friendly|family-friendly|date-night|late-night,43.671212,-79.434705,True,False,False
+R0173,Nicholson's Japanese Grill,Forest Hill,Japanese,3,3.9,BYOB|live-music|quick-bites|brunch|sports-bar,43.765262,-79.42544,True,False,False
+R0174,Welch's Vietnamese Garden,Forest Hill,Vietnamese,1,4.1,group-friendly|vegan-friendly|vegetarian-friendly|quick-bites,43.747591,-79.387779,True,False,False
+R0175,Johnston's Caribbean Kitchen,Danforth,Caribbean,2,4.1,late-night|vegetarian-friendly,43.686371,-79.317055,True,False,False
+R0176,Phillips's Greek Bistro,The Annex,Greek,2,4.4,BYOB|dine-in|late-night|cash-only|vegetarian-friendly|sports-bar,43.708721,-79.349724,False,False,False
+R0177,Mayer's Greek Garden,Little India,Greek,1,3.9,trendy|sports-bar,43.71859,-79.442476,True,True,False
+R0178,York's Japanese Kitchen,St. Lawrence Market,Japanese,3,4.8,outdoor-seating|date-night|group-friendly,43.65794,-79.264508,False,False,False
+R0179,Burns's Chinese Kitchen,Midtown,Chinese,2,3.7,family-friendly|trendy|hidden-gem|delivery|late-night|dine-in,43.741742,-79.429237,True,False,False
+R0180,Wilson's French Corner,Scarborough,French,3,5.0,vegetarian-friendly|brunch|cash-only|outdoor-seating|takeout-only,43.661783,-79.448724,True,False,False
+R0181,Bishop's Chinese House,Financial District,Chinese,2,4.3,romantic|vegan-friendly|BYOB|takeout-only|vegetarian-friendly|cash-only,43.750018,-79.456715,True,False,False
+R0182,Young's Vietnamese Kitchen,Leslieville,Vietnamese,1,3.4,group-friendly|date-night|cash-only,43.661578,-79.36206,False,False,False
+R0183,Becker's Pizza Table,Liberty Village,Pizza,2,3.3,outdoor-seating|cash-only|hidden-gem|romantic|group-friendly|dine-in,43.653211,-79.31174,True,False,False
+R0184,Webb's Korean Garden,Koreatown,Korean,3,4.2,romantic|cash-only|group-friendly|outdoor-seating|vegetarian-friendly,43.721393,-79.492901,True,False,False
+R0185,Rivera's Korean Kitchen,Bloor West Village,Korean,3,3.8,vegetarian-friendly|quick-bites|live-music|patio|trendy,43.705032,-79.478808,True,False,False
+R0186,Rivers's Portuguese Grill,Little India,Portuguese,2,4.3,sports-bar|hidden-gem|date-night|BYOB,43.767819,-79.375381,True,False,False
+R0187,Kelley's Vietnamese Kitchen,King West,Vietnamese,2,4.2,brunch|outdoor-seating|vegetarian-friendly|BYOB|hidden-gem|trendy,43.79643,-79.458062,True,False,False
+R0188,Williams's Chinese Bar,King West,Chinese,3,3.9,cash-only|BYOB|brunch|hidden-gem|delivery,43.770842,-79.326787,False,False,False
+R0189,Gill's Canadian Bar,Thorncliffe Park,Canadian,3,3.4,romantic|late-night|vegan-friendly|trendy,43.692742,-79.273929,True,False,False
+R0190,Elliott's Italian Bar,Little India,Italian,4,3.0,takeout-only|group-friendly|BYOB|cash-only,43.714102,-79.449598,True,False,False
+R0191,Liu's Korean Kitchen,Forest Hill,Korean,2,3.6,family-friendly|BYOB|live-music|date-night|brunch,43.656857,-79.412175,True,False,False
+R0192,Parker's Korean Kitchen,Midtown,Korean,2,4.4,hidden-gem|vegan-friendly|vegetarian-friendly,43.681937,-79.344156,True,False,False
+R0193,Hill's Korean Kitchen,Waterfront,Korean,3,4.0,BYOB|cash-only|vegan-friendly|quick-bites|delivery,43.688408,-79.506234,True,False,False
+R0194,Ramirez's Italian House,Cabbagetown,Italian,3,3.2,vegan-friendly|outdoor-seating|late-night,43.758037,-79.502719,True,False,False
+R0195,Russell's Italian Table,Financial District,Italian,3,4.0,BYOB|vegetarian-friendly,43.705205,-79.479171,True,False,False
+R0196,Austin's Caribbean Bar,Koreatown,Caribbean,1,4.1,live-music|late-night|sports-bar|family-friendly|outdoor-seating|dine-in,43.724077,-79.371998,False,False,False
+R0197,Gomez's Japanese Kitchen,Liberty Village,Japanese,4,3.4,dine-in|takeout-only,43.738474,-79.520117,True,False,False
+R0198,Davis's American Kitchen,Danforth,American,1,4.0,brunch|family-friendly,43.642409,-79.375538,False,False,False
+R0199,Martin's Thai House,Leslieville,Thai,4,3.9,group-friendly|BYOB|brunch|vegan-friendly|live-music|patio,43.702008,-79.427362,True,False,False
+R0200,Bridges's American Kitchen,Midtown,American,3,3.2,quick-bites|patio|sports-bar|vegan-friendly|hidden-gem,43.745779,-79.521488,True,False,False
+R0201,Owens's Chinese Grill,Kensington Market,Chinese,3,4.1,cash-only|dine-in|outdoor-seating,43.750343,-79.34358,True,False,False
+R0202,Miller's Ethiopian Kitchen,Thorncliffe Park,Ethiopian,4,4.2,hidden-gem|brunch|outdoor-seating|vegan-friendly,43.65007,-79.288029,True,True,False
+R0203,Salinas's Korean Bistro,Forest Hill,Korean,1,4.5,vegetarian-friendly|romantic|sports-bar|quick-bites,43.726371,-79.437047,False,False,False
+R0204,Anderson's Italian Kitchen,Little Portugal,Italian,2,4.5,group-friendly|hidden-gem,43.660423,-79.271104,False,False,False
+R0205,Lane's Vietnamese Bistro,Chinatown,Vietnamese,3,3.1,quick-bites|outdoor-seating|patio,43.715347,-79.287457,False,False,False
+R0206,Pearson's Japanese Bar,Parkdale,Japanese,4,3.3,live-music|quick-bites|trendy|dine-in|cash-only|delivery,43.631355,-79.483812,True,False,False
+R0207,Parker's Italian Table,Koreatown,Italian,4,4.2,takeout-only|late-night,43.722063,-79.361936,True,False,False
+R0208,Richardson's Indian Grill,Liberty Village,Indian,2,4.2,brunch|vegan-friendly|patio,43.793401,-79.267683,False,True,False
+R0209,Reyes's Japanese Kitchen,Chinatown,Japanese,2,4.2,vegan-friendly|romantic|patio|hidden-gem|BYOB,43.715923,-79.36158,True,False,False
+R0210,Jackson's American Kitchen,King West,American,2,5.0,BYOB|romantic|vegetarian-friendly,43.706969,-79.474589,True,False,False
+R0211,Moore's Pizza Garden,Little India,Pizza,3,4.2,vegan-friendly|date-night,43.706826,-79.410263,True,True,False
+R0212,Hooper's Mexican Kitchen,Little Italy,Mexican,2,4.6,outdoor-seating|patio|live-music|brunch|date-night,43.750897,-79.268848,True,False,False
+R0213,Greer's Greek Kitchen,St. Lawrence Market,Greek,2,4.5,quick-bites|BYOB,43.764948,-79.505993,True,False,False
+R0214,Warner's Vietnamese Grill,Cabbagetown,Vietnamese,3,4.3,trendy|BYOB|vegan-friendly,43.642748,-79.260795,True,False,False
+R0215,Morales's Filipino Kitchen,Leslieville,Filipino,2,3.7,delivery|hidden-gem,43.769687,-79.4294,True,False,False
+R0216,Mueller's Korean Kitchen,Etobicoke,Korean,2,4.4,hidden-gem|group-friendly|cash-only|patio|vegan-friendly,43.734886,-79.358762,True,False,False
+R0217,Johnson's Caribbean Corner,St. Lawrence Market,Caribbean,2,3.4,dine-in|cash-only|group-friendly|romantic|sports-bar,43.722422,-79.534532,True,True,False
+R0218,Chambers's Korean Kitchen,St. Lawrence Market,Korean,2,3.8,outdoor-seating|dine-in|quick-bites|date-night|vegetarian-friendly,43.762352,-79.523594,True,False,False
+R0219,Moore's American Bar,Koreatown,American,2,3.6,dine-in|date-night|romantic|quick-bites|takeout-only,43.727868,-79.264854,True,False,False
+R0220,Brown's Vietnamese Kitchen,Little Portugal,Vietnamese,1,3.9,group-friendly|live-music|date-night|cash-only|patio,43.725729,-79.487295,True,False,False
+R0221,Hernandez's Filipino Kitchen,Little India,Filipino,3,5.0,takeout-only|patio|late-night,43.767096,-79.444587,True,False,False
+R0222,Mckay's Italian Kitchen,Little Italy,Italian,2,2.8,romantic|vegetarian-friendly|takeout-only|live-music|group-friendly,43.69351,-79.276262,False,False,False
+R0223,King's Caribbean House,Greektown,Caribbean,2,4.3,dine-in|quick-bites|date-night|delivery|live-music|sports-bar,43.750221,-79.382646,True,False,False
+R0224,Leon's West African House,Danforth,West African,2,2.9,takeout-only|quick-bites|vegetarian-friendly|cash-only|BYOB|date-night,43.794081,-79.530933,True,False,False
+R0225,Williamson's Portuguese Grill,Financial District,Portuguese,2,3.6,late-night|brunch|family-friendly|quick-bites|vegan-friendly,43.738647,-79.291737,True,False,False
+R0226,Sharp's Pizza Corner,Thorncliffe Park,Pizza,3,4.6,group-friendly|delivery|vegetarian-friendly|cash-only,43.700383,-79.293104,True,False,False
+R0227,Jackson's West African Kitchen,Queen West,West African,2,3.9,vegan-friendly|takeout-only,43.633413,-79.466884,False,True,False
+R0228,Larson's Japanese Table,Etobicoke,Japanese,2,3.3,hidden-gem|date-night,43.797497,-79.289897,True,False,False
+R0229,Huynh's Canadian Corner,Bloor West Village,Canadian,4,3.5,live-music|quick-bites|vegetarian-friendly|patio,43.787348,-79.388765,True,False,False
+R0230,Richardson's Mexican Kitchen,Financial District,Mexican,2,4.3,late-night|family-friendly,43.736265,-79.405508,True,False,False
+R0231,Gallegos's Italian Garden,Liberty Village,Italian,3,3.5,delivery|date-night|dine-in|sports-bar|group-friendly|vegan-friendly,43.782129,-79.465799,True,False,False
+R0232,Ruiz's Chinese Grill,Waterfront,Chinese,2,4.0,group-friendly|hidden-gem|quick-bites|patio,43.74347,-79.516002,False,False,False
+R0233,Ruiz's Vietnamese Grill,Koreatown,Vietnamese,2,3.9,outdoor-seating|romantic,43.710965,-79.517893,False,False,False
+R0234,Robinson's Greek Table,Greektown,Greek,2,3.5,patio|hidden-gem|vegan-friendly,43.795268,-79.313631,False,False,False
+R0235,Mendoza's Mexican Grill,Bloor West Village,Mexican,1,5.0,group-friendly|delivery|sports-bar|takeout-only|brunch,43.78541,-79.521237,True,False,False
+R0236,Watkins's Japanese Grill,Little Portugal,Japanese,2,4.3,vegetarian-friendly|romantic,43.655194,-79.375378,True,False,False
+R0237,Strickland's Italian Bar,Liberty Village,Italian,3,2.7,brunch|delivery|BYOB,43.727244,-79.407547,True,False,False
+R0238,Gonzales's Indian Kitchen,Bloor West Village,Indian,2,4.0,late-night|takeout-only|live-music|group-friendly,43.710787,-79.464796,True,True,False
+R0239,Finley's Chinese Kitchen,Bloor West Village,Chinese,3,3.5,hidden-gem|vegan-friendly|family-friendly|trendy,43.705329,-79.308769,True,False,False
+R0240,Hamilton's Portuguese House,Junction,Portuguese,3,4.4,delivery|BYOB|outdoor-seating|late-night|date-night|vegetarian-friendly,43.764553,-79.521627,True,False,False
+R0241,Wade's Canadian House,Roncesvalles,Canadian,4,3.4,vegetarian-friendly|late-night|quick-bites|dine-in|cash-only,43.69262,-79.410019,True,False,False
+R0242,Nguyen's Portuguese Grill,Roncesvalles,Portuguese,4,3.8,late-night|delivery|patio|date-night,43.757323,-79.347122,False,False,False
+R0243,Wolf's Ethiopian Corner,Leslieville,Ethiopian,3,4.2,cash-only|BYOB,43.717258,-79.297904,True,False,False
+R0244,Dorsey's Canadian Corner,Waterfront,Canadian,4,4.4,dine-in|trendy|brunch|family-friendly|romantic,43.739266,-79.421334,True,False,False
+R0245,Wells's Caribbean Garden,Cabbagetown,Caribbean,2,3.2,sports-bar|live-music|romantic|vegetarian-friendly|cash-only|patio,43.772694,-79.382792,False,False,False
+R0246,Kline's Taiwanese Bar,Queen West,Taiwanese,1,3.7,patio|delivery|takeout-only,43.662021,-79.395158,True,False,False
+R0247,Reese's Italian House,Bloor West Village,Italian,4,3.6,family-friendly|takeout-only|quick-bites|cash-only|dine-in|brunch,43.636004,-79.341741,False,False,False
+R0248,Price's Chinese Bar,Roncesvalles,Chinese,3,3.5,takeout-only|vegan-friendly|quick-bites,43.753282,-79.383471,True,False,False
+R0249,Sanders's Vietnamese Corner,Parkdale,Vietnamese,2,5.0,romantic|vegan-friendly|cash-only|family-friendly|vegetarian-friendly|hidden-gem,43.774706,-79.40825,True,False,False
+R0250,Ford's Indian House,Leslieville,Indian,2,4.1,BYOB|takeout-only|date-night|vegan-friendly|cash-only,43.797823,-79.290003,True,True,False
+R0251,Wells's French Table,North York,French,3,3.1,BYOB|hidden-gem,43.759962,-79.402918,True,True,False
+R0252,Johnson's American Garden,Kensington Market,American,2,4.5,family-friendly|late-night|romantic|quick-bites|outdoor-seating|dine-in,43.781641,-79.328083,True,False,False
+R0253,Anderson's Portuguese Table,Queen West,Portuguese,2,5.0,sports-bar|outdoor-seating|takeout-only|hidden-gem|BYOB|date-night,43.791239,-79.412341,True,False,False
+R0254,Taylor's Italian Kitchen,Koreatown,Italian,3,4.5,late-night|romantic|outdoor-seating,43.668135,-79.264234,True,False,False
+R0255,Hughes's Ethiopian Kitchen,Scarborough,Ethiopian,2,3.0,vegetarian-friendly|late-night,43.735933,-79.373701,True,True,False
+R0256,Wade's Canadian Bar,Little India,Canadian,2,3.6,hidden-gem|vegetarian-friendly|outdoor-seating|brunch,43.748183,-79.363513,False,False,False
+R0257,Williams's Chinese House,Chinatown,Chinese,1,4.7,family-friendly|brunch|outdoor-seating|sports-bar|dine-in|cash-only,43.763409,-79.400633,True,False,False
+R0258,Barnes's Mexican Kitchen,Kensington Market,Mexican,1,3.5,romantic|cash-only,43.632167,-79.515079,True,False,False
+R0259,Wright's Ethiopian Grill,Koreatown,Ethiopian,2,4.2,trendy|patio|vegetarian-friendly|date-night,43.707648,-79.266359,False,True,False
+R0260,Jones's Japanese Corner,Danforth,Japanese,2,4.4,date-night|takeout-only|dine-in,43.78135,-79.537292,True,False,False
+R0261,Nash's Japanese Bistro,The Annex,Japanese,4,3.3,cash-only|hidden-gem|date-night|vegetarian-friendly|BYOB,43.793593,-79.463887,False,False,False
+R0262,Tucker's Thai Kitchen,North York,Thai,2,3.9,dine-in|late-night|BYOB|cash-only|outdoor-seating,43.745327,-79.489247,True,False,False
+R0263,Taylor's Canadian House,Financial District,Canadian,3,2.0,quick-bites|takeout-only|outdoor-seating|group-friendly|vegetarian-friendly|family-friendly,43.719219,-79.331785,True,False,False
+R0264,Mcbride's Portuguese Bistro,Thorncliffe Park,Portuguese,3,3.3,outdoor-seating|cash-only|romantic,43.797925,-79.524721,True,False,False
+R0265,Norris's Thai Table,Scarborough,Thai,1,3.7,vegan-friendly|trendy|romantic,43.739364,-79.427082,True,False,False
+R0266,Herrera's American Garden,Kensington Market,American,2,3.2,group-friendly|late-night|vegan-friendly|live-music|family-friendly|takeout-only,43.647449,-79.424545,True,False,False
+R0267,Hill's Vietnamese Kitchen,Etobicoke,Vietnamese,2,4.9,trendy|vegetarian-friendly|romantic|quick-bites,43.731992,-79.339336,True,False,False
+R0268,Greene's Italian House,Chinatown,Italian,2,3.0,hidden-gem|vegetarian-friendly|brunch,43.637782,-79.494036,False,False,False
+R0269,Shelton's Chinese Kitchen,King West,Chinese,3,3.6,vegetarian-friendly|trendy|romantic|outdoor-seating|BYOB|quick-bites,43.64832,-79.423948,True,False,False
+R0270,Ramirez's Filipino Table,Danforth,Filipino,4,4.0,date-night|BYOB|vegetarian-friendly|delivery|takeout-only|brunch,43.786598,-79.490383,False,False,False
+R0271,Johnson's Pizza Kitchen,Queen West,Pizza,3,4.8,sports-bar|outdoor-seating|live-music|takeout-only|family-friendly,43.706984,-79.502656,True,False,False
+R0272,Cruz's Pizza Grill,Midtown,Pizza,3,3.0,takeout-only|vegetarian-friendly|dine-in|cash-only|hidden-gem|sports-bar,43.795781,-79.490212,False,False,False
+R0273,Dixon's Japanese House,The Annex,Japanese,4,4.6,brunch|date-night|live-music,43.654706,-79.352329,True,False,False
+R0274,Solis's Korean Table,Cabbagetown,Korean,2,3.9,quick-bites|group-friendly|delivery|sports-bar|live-music|dine-in,43.706941,-79.36749,False,False,False
+R0275,Vargas's Vietnamese Kitchen,Kensington Market,Vietnamese,1,3.3,quick-bites|dine-in|group-friendly|family-friendly|outdoor-seating,43.756424,-79.483136,True,False,False
+R0276,Wright's Thai Bar,The Annex,Thai,4,4.2,BYOB|date-night|brunch|late-night,43.636908,-79.461849,True,False,False
+R0277,Campos's French House,Midtown,French,4,4.0,romantic|group-friendly|dine-in|vegan-friendly|takeout-only,43.734653,-79.354671,False,False,False
+R0278,Yates's Italian Corner,Yorkville,Italian,3,3.5,takeout-only|dine-in|live-music|family-friendly,43.667604,-79.480261,False,False,False
+R0279,Larson's Korean Bistro,Financial District,Korean,2,3.9,sports-bar|quick-bites|patio|takeout-only|delivery|trendy,43.688821,-79.472703,True,False,False
+R0280,White's Portuguese House,Yorkville,Portuguese,4,3.7,patio|live-music|family-friendly|takeout-only|vegan-friendly,43.717433,-79.397554,True,False,False
+R0281,Morgan's Indian House,Midtown,Indian,1,4.0,vegetarian-friendly|family-friendly|group-friendly|hidden-gem|vegan-friendly,43.761509,-79.297814,False,True,False
+R0282,Vincent's Chinese Table,Roncesvalles,Chinese,2,4.3,brunch|hidden-gem|delivery,43.724874,-79.379011,True,False,False
+R0283,Garcia's Caribbean Bistro,Etobicoke,Caribbean,2,4.9,vegan-friendly|dine-in,43.64075,-79.331134,False,False,False
+R0284,Pratt's Filipino Grill,The Annex,Filipino,2,3.2,date-night|group-friendly|quick-bites|BYOB|delivery,43.697169,-79.354998,False,False,False
+R0285,Aguilar's Filipino Kitchen,St. Lawrence Market,Filipino,1,5.0,group-friendly|sports-bar,43.777414,-79.358577,True,False,False
+R0286,Allen's Japanese Kitchen,Little India,Japanese,2,2.7,family-friendly|hidden-gem|outdoor-seating|BYOB,43.75721,-79.287007,False,False,False
+R0287,Gardner's French Kitchen,Forest Hill,French,4,3.8,trendy|group-friendly|vegan-friendly|live-music|romantic|BYOB,43.639246,-79.329708,True,False,False
+R0288,Garcia's Caribbean Bar,Chinatown,Caribbean,2,4.3,takeout-only|cash-only|trendy,43.678473,-79.520454,True,False,False
+R0289,Gomez's Mexican Kitchen,Leslieville,Mexican,3,4.1,hidden-gem|brunch|dine-in,43.658669,-79.4523,False,False,False
+R0290,Lam's Mexican House,Scarborough,Mexican,2,3.5,brunch|BYOB,43.648502,-79.359246,False,False,False
+R0291,Johnson's Korean Corner,Junction,Korean,2,3.8,delivery|romantic|family-friendly|patio|brunch|cash-only,43.737377,-79.31246,True,False,False
+R0292,Rose's French Kitchen,Bloor West Village,French,4,3.6,outdoor-seating|vegan-friendly|delivery|dine-in|late-night|takeout-only,43.775718,-79.502513,False,False,False
+R0293,Reyes's Chinese Kitchen,Greektown,Chinese,2,3.5,cash-only|dine-in|patio,43.660455,-79.274361,True,False,False
+R0294,Olson's Indian Garden,St. Lawrence Market,Indian,2,4.4,patio|sports-bar|takeout-only|vegetarian-friendly|brunch,43.691413,-79.408491,True,True,False
+R0295,Arnold's Vietnamese Table,Thorncliffe Park,Vietnamese,3,4.1,quick-bites|outdoor-seating|delivery|dine-in|romantic,43.77203,-79.395334,True,False,False
+R0296,Mendoza's Indian Table,Junction,Indian,3,3.5,date-night|dine-in|vegetarian-friendly,43.739391,-79.480775,False,True,False
+R0297,Taylor's Indian Kitchen,Greektown,Indian,2,4.4,patio|BYOB|date-night,43.740034,-79.424948,False,True,False
+R0298,Brown's Filipino Grill,Junction,Filipino,2,4.1,late-night|live-music|vegan-friendly|family-friendly|trendy|romantic,43.792901,-79.37218,True,False,False
+R0299,Morris's Vietnamese Kitchen,Danforth,Vietnamese,2,4.4,date-night|takeout-only|trendy|vegan-friendly,43.66092,-79.355298,True,False,False
+R0300,Johnson's Thai Bistro,Leslieville,Thai,1,4.3,cash-only|patio|group-friendly,43.770507,-79.370457,True,False,False

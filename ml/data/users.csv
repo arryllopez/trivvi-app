@@ -1,0 +1,501 @@
+user_id,age_group,preferred_cuisines,price_sensitivity,neighbourhood,dietary_restrictions,transit_dependent
+U0001,13-17,West African|American|Caribbean|Japanese|Filipino,3,St. Lawrence Market,none,True
+U0002,25-34,Indian|American|Ethiopian|Thai|Portuguese|Canadian,4,Queen West,none,False
+U0003,25-34,Italian|Korean|Filipino|West African,1,Midtown,none,True
+U0004,45-54,Caribbean|Indian|Ethiopian|American|Thai,2,North York,none,False
+U0005,18-24,Italian|American|Taiwanese|Portuguese|Mexican,3,Roncesvalles,none,False
+U0006,35-44,Ethiopian|Indian|Greek|French|Mexican,2,St. Lawrence Market,none,True
+U0007,35-44,Mexican|Canadian,1,Little Italy,gluten-free,False
+U0008,25-34,American|Chinese|Filipino|Thai|Greek|Mexican,1,The Annex,none,False
+U0009,25-34,Vietnamese|Japanese|Mexican|Portuguese|French|Korean,3,St. Lawrence Market,none,True
+U0010,18-24,West African|Pizza|Greek|Mexican|Japanese|Filipino,1,Greektown,none,True
+U0011,18-24,Caribbean|Canadian|Filipino|Italian|Korean,1,Little Italy,vegetarian,True
+U0012,35-44,Filipino|Caribbean|Pizza|Thai|Greek|Vietnamese,2,The Annex,gluten-free,False
+U0013,18-24,West African|Indian|Taiwanese|Chinese|Vietnamese,1,Junction,none,False
+U0014,45-54,Thai|French|Canadian|Portuguese|Greek|Taiwanese,3,Financial District,none,False
+U0015,35-44,Portuguese|Indian,2,St. Lawrence Market,none,False
+U0016,35-44,Middle Eastern|American|Caribbean,1,Cabbagetown,none,True
+U0017,18-24,Middle Eastern|Chinese|Taiwanese|Mexican|Portuguese,2,North York,none,True
+U0018,55+,Portuguese|Italian|Greek,4,Little India,vegetarian,True
+U0019,45-54,Caribbean|Ethiopian|Indian|Taiwanese|Chinese|Middle Eastern,2,Kensington Market,gluten-free,False
+U0020,25-34,Portuguese|Caribbean,2,Thorncliffe Park,vegan,False
+U0021,45-54,Mexican|West African|Thai|Canadian|Greek,1,Junction,vegetarian,False
+U0022,25-34,Japanese|West African|Caribbean|Canadian|Mexican|Greek,3,Parkdale,gluten-free,True
+U0023,13-17,Canadian|Filipino|Indian,3,Roncesvalles,none,True
+U0024,18-24,Portuguese|Middle Eastern|Caribbean|Mexican,2,Waterfront,none,False
+U0025,25-34,Thai|French|Mexican|Ethiopian|Greek,3,St. Lawrence Market,halal,True
+U0026,25-34,Italian|Ethiopian|Filipino|Portuguese|Korean,2,Thorncliffe Park,none,False
+U0027,25-34,Portuguese|Vietnamese|Thai|Japanese,3,Distillery District,none,True
+U0028,18-24,French|Middle Eastern,2,Scarborough,none,False
+U0029,18-24,American|Indian,3,Etobicoke,none,True
+U0030,35-44,Mexican|Vietnamese|Caribbean|Middle Eastern|Portuguese|Canadian,4,The Annex,vegetarian,False
+U0031,25-34,Mexican|Middle Eastern|American,3,Forest Hill,vegan,False
+U0032,13-17,Greek|Middle Eastern|Filipino|Vietnamese,3,The Annex,vegetarian,True
+U0033,25-34,Filipino|West African|French|American,4,Little Portugal,none,False
+U0034,35-44,Italian|Mexican,1,Thorncliffe Park,none,False
+U0035,13-17,West African|Chinese|Indian|Thai|Ethiopian,4,The Annex,none,True
+U0036,18-24,French|Ethiopian|Filipino|West African,1,Financial District,halal,True
+U0037,55+,French|Taiwanese|Thai|Pizza|Ethiopian,3,Greektown,gluten-free,False
+U0038,25-34,American|West African|Taiwanese|Vietnamese|Caribbean|Greek,3,Parkdale,none,True
+U0039,25-34,Vietnamese|Korean|Filipino,3,Little Portugal,none,True
+U0040,25-34,Portuguese|Pizza,3,St. Lawrence Market,none,True
+U0041,18-24,Taiwanese|Caribbean,4,Leslieville,none,True
+U0042,18-24,Canadian|Greek|Thai|Chinese|American,2,St. Lawrence Market,vegan,False
+U0043,45-54,Vietnamese|Taiwanese|Thai|American,1,Little Portugal,none,True
+U0044,35-44,French|Thai|Portuguese|Italian|Middle Eastern|Korean,4,Kensington Market,none,True
+U0045,18-24,Ethiopian|French|Korean|Greek,1,Little India,none,True
+U0046,25-34,Caribbean|French|Japanese|Middle Eastern|Chinese,4,Distillery District,halal,True
+U0047,25-34,Portuguese|Mexican|Italian|Thai|Canadian|American,4,Waterfront,none,True
+U0048,45-54,Greek|Japanese|Italian|French|Indian,4,Liberty Village,none,False
+U0049,55+,Mexican|Japanese|Taiwanese|West African,2,Queen West,none,True
+U0050,45-54,Indian|Greek|American,2,Roncesvalles,none,False
+U0051,25-34,Korean|Japanese|Portuguese,2,Danforth,vegetarian,True
+U0052,18-24,Pizza|Middle Eastern,4,Midtown,gluten-free,True
+U0053,25-34,Taiwanese|Indian|Ethiopian,2,Scarborough,none,False
+U0054,45-54,Italian|Korean|Canadian|Caribbean|Ethiopian,1,Waterfront,none,False
+U0055,18-24,Italian|Filipino|Mexican|Caribbean|Middle Eastern,2,Cabbagetown,vegetarian,True
+U0056,45-54,Chinese|West African|Ethiopian,3,Scarborough,none,False
+U0057,13-17,Canadian|Mexican|Korean|Caribbean|Greek|Filipino,3,Scarborough,vegetarian,True
+U0058,18-24,Taiwanese|Ethiopian|Vietnamese|Middle Eastern|American,1,Junction,vegan,True
+U0059,13-17,Mexican|Japanese|Italian,2,Distillery District,none,True
+U0060,45-54,West African|Filipino|Thai|Japanese|Caribbean,3,Kensington Market,none,False
+U0061,18-24,Chinese|French|Japanese|Caribbean|American,3,Distillery District,halal,False
+U0062,18-24,Chinese|Vietnamese,2,Junction,none,True
+U0063,35-44,Canadian|Italian|Filipino|West African|Greek|Vietnamese,2,Bloor West Village,vegan,False
+U0064,35-44,Caribbean|French|American|Indian|Mexican|Canadian,2,King West,none,False
+U0065,25-34,French|Caribbean|Middle Eastern|Taiwanese|Filipino|Italian,2,Bloor West Village,vegetarian,True
+U0066,18-24,Italian|Canadian|Taiwanese|Thai|Caribbean|Greek,2,Bloor West Village,none,True
+U0067,18-24,West African|Ethiopian,2,Queen West,gluten-free,False
+U0068,18-24,Korean|Thai|Taiwanese|West African,4,Little Portugal,none,True
+U0069,25-34,Ethiopian|Thai|Caribbean,2,Roncesvalles,kosher,False
+U0070,13-17,Filipino|Italian|Chinese|Middle Eastern|Portuguese,3,Waterfront,none,True
+U0071,45-54,Pizza|Vietnamese,3,The Annex,none,True
+U0072,13-17,Caribbean|American|Filipino|Indian,2,Midtown,halal,True
+U0073,55+,Japanese|Vietnamese|West African|Pizza|Middle Eastern,1,Junction,none,False
+U0074,18-24,French|Filipino|West African|Chinese|Greek,3,Little Portugal,none,True
+U0075,13-17,Japanese|Taiwanese|Canadian|Thai|Chinese|Italian,3,Little Portugal,none,True
+U0076,25-34,Portuguese|Canadian|Italian,4,Junction,none,True
+U0077,13-17,Middle Eastern|Filipino|Chinese|Indian|American,2,King West,none,True
+U0078,35-44,Mexican|Caribbean|French|Ethiopian,4,Koreatown,none,True
+U0079,25-34,Indian|Japanese,3,Little Portugal,none,False
+U0080,45-54,Middle Eastern|Indian,2,King West,none,True
+U0081,25-34,Taiwanese|West African|Thai,3,Little Portugal,none,False
+U0082,35-44,Filipino|West African|Japanese|Thai|Mexican,2,Waterfront,none,False
+U0083,13-17,Chinese|Canadian,3,Financial District,vegan,True
+U0084,18-24,Canadian|Greek|Pizza|West African,1,King West,gluten-free,True
+U0085,35-44,Mexican|Italian,2,Waterfront,none,True
+U0086,18-24,Vietnamese|Middle Eastern|Portuguese|Canadian|Mexican|Korean,2,Midtown,none,True
+U0087,55+,Thai|Japanese|Pizza|Canadian|Korean|Taiwanese,2,King West,gluten-free,False
+U0088,35-44,Canadian|West African,3,Midtown,gluten-free,False
+U0089,25-34,Ethiopian|American|Vietnamese|Middle Eastern|French|Thai,3,North York,none,True
+U0090,45-54,Vietnamese|West African|Ethiopian,4,Danforth,none,True
+U0091,55+,Middle Eastern|Chinese|Taiwanese,3,Greektown,none,True
+U0092,45-54,Middle Eastern|American,2,Bloor West Village,gluten-free,False
+U0093,45-54,Ethiopian|Italian|Indian|Pizza,3,Etobicoke,none,False
+U0094,35-44,Greek|Pizza|Filipino|Korean|Caribbean|Japanese,2,Junction,vegetarian,False
+U0095,25-34,Mexican|Canadian|Portuguese|Taiwanese,2,Distillery District,none,True
+U0096,55+,American|Greek|Italian|Taiwanese,4,Parkdale,none,False
+U0097,25-34,French|Greek|American|Canadian,3,Cabbagetown,vegetarian,True
+U0098,25-34,Filipino|Taiwanese|West African|Japanese|Indian|Greek,4,Thorncliffe Park,none,False
+U0099,25-34,Japanese|Taiwanese|Canadian|West African|Pizza,2,Thorncliffe Park,none,True
+U0100,45-54,Mexican|American|Vietnamese|Japanese|Ethiopian,3,Little Italy,none,False
+U0101,18-24,Taiwanese|Ethiopian|Canadian|American|Middle Eastern|Greek,2,Thorncliffe Park,none,False
+U0102,18-24,Chinese|Thai|Middle Eastern|Mexican|Indian,3,Midtown,none,True
+U0103,25-34,West African|Mexican|Canadian|Taiwanese|Japanese,4,North York,vegetarian,False
+U0104,45-54,Ethiopian|Mexican|Japanese,2,Danforth,none,False
+U0105,18-24,Indian|Ethiopian|Italian,3,Kensington Market,none,True
+U0106,45-54,Korean|Portuguese|Greek|Italian|Filipino|Taiwanese,1,Etobicoke,none,True
+U0107,45-54,Pizza|Taiwanese|Italian|Japanese,1,Yorkville,none,True
+U0108,45-54,Pizza|Vietnamese|Middle Eastern|Chinese|Japanese|Portuguese,2,Financial District,none,True
+U0109,35-44,Filipino|Taiwanese|Mexican|French|Caribbean|West African,3,King West,none,True
+U0110,25-34,American|Taiwanese,2,Chinatown,none,False
+U0111,18-24,American|West African|Italian|Taiwanese|Japanese|Portuguese,4,Junction,none,False
+U0112,25-34,Vietnamese|American|Middle Eastern|Thai|Caribbean|French,3,Junction,none,False
+U0113,25-34,Pizza|Greek|Vietnamese,1,Kensington Market,gluten-free,True
+U0114,45-54,Pizza|American|Filipino,2,St. Lawrence Market,none,False
+U0115,13-17,Vietnamese|Thai|Chinese,2,King West,none,True
+U0116,18-24,Middle Eastern|Canadian|Korean|Mexican,3,Financial District,none,True
+U0117,25-34,Ethiopian|Portuguese,2,Forest Hill,none,True
+U0118,25-34,Japanese|West African|Vietnamese|Middle Eastern|Korean,3,St. Lawrence Market,none,False
+U0119,45-54,Ethiopian|Thai,2,The Annex,halal,False
+U0120,45-54,Pizza|Canadian|Mexican|Indian|Vietnamese|Caribbean,3,Roncesvalles,halal,False
+U0121,25-34,Caribbean|French|Vietnamese,2,Chinatown,none,True
+U0122,13-17,Chinese|French|West African,2,Junction,none,True
+U0123,25-34,West African|Vietnamese|Middle Eastern|Ethiopian|Indian,4,Financial District,halal,False
+U0124,18-24,French|Canadian,2,Kensington Market,vegetarian,True
+U0125,13-17,Chinese|Middle Eastern|French|Japanese|Indian|Thai,3,Kensington Market,vegetarian,True
+U0126,25-34,Middle Eastern|Italian|Filipino,2,Danforth,none,True
+U0127,18-24,Mexican|Thai|Indian,3,Junction,none,True
+U0128,25-34,Middle Eastern|Thai|Ethiopian|Vietnamese|Greek|Chinese,3,King West,none,True
+U0129,13-17,Portuguese|Japanese,1,Leslieville,none,True
+U0130,35-44,French|Caribbean|Vietnamese|Middle Eastern|Italian|Filipino,3,Little Italy,vegetarian,False
+U0131,45-54,Filipino|Ethiopian|Chinese|French|Indian,3,Waterfront,none,False
+U0132,25-34,Ethiopian|Thai|Caribbean,3,Financial District,none,True
+U0133,45-54,French|Portuguese|Korean|Chinese,2,Parkdale,none,False
+U0134,18-24,Pizza|Filipino|Ethiopian|West African,3,St. Lawrence Market,none,True
+U0135,35-44,Vietnamese|Taiwanese,3,Koreatown,none,False
+U0136,25-34,Canadian|Chinese|Middle Eastern|Italian|American,2,St. Lawrence Market,halal,True
+U0137,35-44,Chinese|Filipino|Portuguese,3,King West,none,False
+U0138,45-54,Vietnamese|Canadian|Chinese,3,Etobicoke,none,False
+U0139,25-34,Japanese|Chinese|Italian|Ethiopian|Korean,3,Parkdale,vegetarian,True
+U0140,25-34,French|Italian|Filipino|Middle Eastern|Vietnamese|Portuguese,3,Leslieville,halal,False
+U0141,55+,Filipino|Korean,2,Forest Hill,vegan,True
+U0142,18-24,Taiwanese|Japanese|Korean|Caribbean,2,Kensington Market,none,True
+U0143,35-44,Middle Eastern|Canadian|Filipino|Taiwanese|American,3,Liberty Village,none,True
+U0144,35-44,American|Ethiopian|Vietnamese|Filipino,1,Kensington Market,none,True
+U0145,45-54,Ethiopian|Chinese|Pizza|American|French,3,Leslieville,kosher,False
+U0146,25-34,Taiwanese|French|Canadian|Caribbean|Greek,3,North York,none,True
+U0147,35-44,Thai|American|Taiwanese|Caribbean|Japanese|Korean,3,Chinatown,none,False
+U0148,55+,Ethiopian|West African,4,Danforth,gluten-free,True
+U0149,25-34,Pizza|Chinese|Greek|Portuguese|Filipino|Middle Eastern,3,Queen West,vegan,False
+U0150,55+,Korean|Portuguese|French|West African|Filipino|Vietnamese,2,St. Lawrence Market,vegetarian,True
+U0151,18-24,Vietnamese|Filipino|Thai|Japanese|Portuguese|Pizza,1,Queen West,none,False
+U0152,35-44,Portuguese|Chinese|Ethiopian|West African,3,Roncesvalles,none,True
+U0153,18-24,Korean|Indian|Mexican|Ethiopian,2,Greektown,vegan,True
+U0154,35-44,Mexican|West African|Japanese|Middle Eastern|Chinese,3,Cabbagetown,gluten-free,True
+U0155,25-34,Canadian|Greek|French|Mexican|Italian,3,Distillery District,none,False
+U0156,45-54,Japanese|Mexican,2,Liberty Village,none,False
+U0157,45-54,Greek|Canadian|Filipino|Portuguese|Thai|Chinese,2,Queen West,none,False
+U0158,25-34,West African|Japanese|Indian|Caribbean,2,Midtown,gluten-free,False
+U0159,25-34,Indian|Thai|Canadian|French,3,Bloor West Village,vegetarian,False
+U0160,45-54,Middle Eastern|Mexican|Pizza|Korean|West African|American,2,Junction,none,True
+U0161,25-34,Vietnamese|Thai|Italian,3,Distillery District,none,False
+U0162,35-44,Pizza|Indian|Filipino,3,The Annex,none,False
+U0163,45-54,Mexican|Indian|Pizza|Thai|Vietnamese|Greek,1,Parkdale,vegan,False
+U0164,18-24,Middle Eastern|Thai|Mexican|Chinese|Filipino,2,King West,vegetarian,False
+U0165,18-24,Mexican|French|Chinese|Portuguese,2,The Annex,gluten-free,True
+U0166,25-34,Taiwanese|American|Italian,1,Parkdale,vegan,False
+U0167,18-24,Chinese|Filipino,3,Kensington Market,vegetarian,False
+U0168,18-24,Japanese|Canadian,3,Thorncliffe Park,none,True
+U0169,13-17,Portuguese|American|Canadian|Chinese|Greek,4,Cabbagetown,none,True
+U0170,18-24,Caribbean|Middle Eastern|Vietnamese|Canadian|Japanese|Filipino,3,Yorkville,gluten-free,True
+U0171,55+,French|Vietnamese,2,Distillery District,vegan,False
+U0172,35-44,Canadian|Indian|Caribbean|Portuguese,3,Bloor West Village,none,True
+U0173,13-17,Filipino|Greek,1,Scarborough,none,True
+U0174,25-34,Korean|Japanese|Middle Eastern|Filipino|Taiwanese,1,Chinatown,halal,True
+U0175,35-44,French|Taiwanese|Ethiopian|Greek|Chinese|Korean,2,Kensington Market,vegetarian,False
+U0176,55+,Greek|Ethiopian,3,Thorncliffe Park,none,True
+U0177,45-54,Pizza|Mexican|Chinese|Indian|West African,3,Koreatown,none,True
+U0178,18-24,Canadian|Middle Eastern|Indian|Ethiopian,4,Little India,none,False
+U0179,35-44,Chinese|Indian|Thai|Ethiopian,2,Yorkville,vegetarian,False
+U0180,25-34,Japanese|Ethiopian|Indian|Canadian|Mexican|Korean,1,Kensington Market,halal,True
+U0181,13-17,Vietnamese|American|Portuguese|Ethiopian|Italian|Chinese,2,Leslieville,vegan,True
+U0182,18-24,Pizza|Mexican,3,Little Italy,vegetarian,True
+U0183,45-54,American|Korean|Taiwanese|Greek,4,Chinatown,none,False
+U0184,45-54,West African|Greek|French|Italian|Thai|Korean,3,Financial District,none,False
+U0185,55+,Mexican|Pizza|Japanese|Taiwanese|Caribbean,2,King West,none,False
+U0186,45-54,Japanese|Indian|Pizza|Mexican|West African,2,Chinatown,halal,True
+U0187,18-24,Filipino|Pizza|Middle Eastern|American|Italian,4,Koreatown,vegetarian,False
+U0188,25-34,Greek|American,2,Koreatown,halal,True
+U0189,35-44,American|Ethiopian,3,Greektown,none,True
+U0190,18-24,Caribbean|Thai|Italian,1,North York,none,True
+U0191,18-24,French|American|Mexican|Middle Eastern|Greek,3,St. Lawrence Market,kosher,False
+U0192,55+,Filipino|Taiwanese|Greek,4,Liberty Village,none,False
+U0193,18-24,French|Thai|Korean|American|Greek,2,Koreatown,none,False
+U0194,35-44,Filipino|Korean|American,1,Liberty Village,gluten-free,False
+U0195,25-34,West African|Canadian|Portuguese|Indian|French,1,Danforth,none,True
+U0196,35-44,Ethiopian|Caribbean|Vietnamese,4,Kensington Market,none,False
+U0197,25-34,Filipino|Pizza|Korean|French|West African,4,The Annex,vegetarian,True
+U0198,45-54,Korean|Chinese|Canadian|Middle Eastern|Japanese,3,Waterfront,none,False
+U0199,25-34,Chinese|Middle Eastern|Japanese,4,Yorkville,none,False
+U0200,18-24,French|Japanese|Caribbean|Taiwanese,3,Little Italy,none,True
+U0201,45-54,Middle Eastern|Greek|Taiwanese,2,Danforth,none,False
+U0202,55+,Greek|Middle Eastern|Caribbean,2,Leslieville,kosher,True
+U0203,13-17,French|Portuguese|West African|Taiwanese,2,Scarborough,halal,True
+U0204,25-34,French|Caribbean|Chinese|Italian,2,Little Italy,kosher,True
+U0205,18-24,Indian|Mexican,3,Liberty Village,none,True
+U0206,18-24,Vietnamese|American,2,Little Portugal,gluten-free,True
+U0207,25-34,Vietnamese|Italian,4,Koreatown,none,False
+U0208,25-34,American|Filipino|Middle Eastern|Taiwanese,3,Junction,none,False
+U0209,25-34,Filipino|Ethiopian|Vietnamese|Mexican,2,Yorkville,halal,False
+U0210,45-54,Ethiopian|Caribbean,4,Etobicoke,none,False
+U0211,35-44,Mexican|Pizza|Ethiopian|Filipino,1,King West,none,False
+U0212,25-34,Mexican|Italian|Taiwanese|Japanese,4,Little Portugal,vegan,True
+U0213,25-34,Taiwanese|Vietnamese|Indian,2,Liberty Village,gluten-free,False
+U0214,55+,Ethiopian|Korean|Taiwanese|West African,3,Liberty Village,none,False
+U0215,55+,Ethiopian|Filipino|French|Middle Eastern|Indian|Caribbean,1,Financial District,none,False
+U0216,25-34,Pizza|Greek|French|Caribbean|Chinese,3,Little India,none,False
+U0217,18-24,Italian|Korean|Chinese|French,4,Junction,vegan,True
+U0218,25-34,Pizza|West African|Japanese|Caribbean|Canadian|Chinese,2,The Annex,vegetarian,True
+U0219,18-24,Vietnamese|French|Taiwanese|Chinese,4,Bloor West Village,none,False
+U0220,45-54,Mexican|American|Filipino|Ethiopian,3,Little Portugal,halal,True
+U0221,25-34,Middle Eastern|Chinese|Canadian|Filipino|Korean|Italian,2,Greektown,vegan,False
+U0222,35-44,Italian|Mexican|Canadian,2,Cabbagetown,none,False
+U0223,45-54,Portuguese|Taiwanese|French|Greek,1,Roncesvalles,none,False
+U0224,35-44,Indian|Vietnamese|American|Mexican|Portuguese,3,Kensington Market,kosher,True
+U0225,18-24,Pizza|Caribbean,3,Forest Hill,none,True
+U0226,35-44,Caribbean|West African,1,Roncesvalles,vegetarian,True
+U0227,13-17,French|Ethiopian|Caribbean|Mexican,2,Midtown,none,False
+U0228,25-34,Vietnamese|West African|Chinese|Filipino,3,Danforth,none,True
+U0229,45-54,Middle Eastern|Pizza|Vietnamese|Thai|Caribbean|Japanese,2,Little Portugal,none,True
+U0230,25-34,Portuguese|American|Middle Eastern|Mexican,2,Koreatown,none,False
+U0231,45-54,Pizza|West African|Taiwanese|Indian|American|Greek,1,Little Portugal,gluten-free,False
+U0232,25-34,Caribbean|Ethiopian|French|West African,2,Waterfront,vegetarian,True
+U0233,35-44,Greek|Ethiopian,1,Koreatown,halal,True
+U0234,18-24,American|Indian,3,Danforth,none,True
+U0235,18-24,West African|Filipino,1,Roncesvalles,none,True
+U0236,25-34,Indian|Pizza,2,Thorncliffe Park,gluten-free,True
+U0237,35-44,Chinese|Ethiopian,4,North York,halal,True
+U0238,18-24,Pizza|Greek|West African|Chinese|Indian|American,1,Little India,none,False
+U0239,55+,Taiwanese|Korean|Indian,4,Forest Hill,gluten-free,False
+U0240,25-34,Mexican|French|Indian|Pizza|Caribbean|Italian,2,Leslieville,none,True
+U0241,55+,French|Indian,2,Yorkville,none,False
+U0242,35-44,Chinese|Middle Eastern,2,Parkdale,none,False
+U0243,25-34,Greek|Taiwanese|American|Vietnamese|Filipino,1,Cabbagetown,none,False
+U0244,55+,Mexican|Korean|Portuguese|Indian,2,Financial District,none,True
+U0245,18-24,Filipino|Indian|Mexican|Chinese|Caribbean,2,Etobicoke,gluten-free,False
+U0246,25-34,American|Portuguese|Thai,3,North York,vegetarian,True
+U0247,45-54,Caribbean|Portuguese|Canadian|Filipino|Thai,2,Chinatown,none,True
+U0248,25-34,Korean|Indian|Japanese,2,Kensington Market,halal,False
+U0249,25-34,Ethiopian|Vietnamese|Indian|Chinese,2,Liberty Village,vegan,False
+U0250,18-24,Portuguese|West African|Thai|Middle Eastern|Korean,1,Leslieville,gluten-free,False
+U0251,18-24,Middle Eastern|Canadian|French|Taiwanese|Japanese,3,Forest Hill,none,False
+U0252,45-54,Portuguese|American|Ethiopian,2,Danforth,none,True
+U0253,35-44,Taiwanese|Filipino|Portuguese|Pizza|Mexican|Thai,2,North York,none,False
+U0254,35-44,Vietnamese|Middle Eastern|Japanese|Korean,1,Yorkville,none,True
+U0255,35-44,Middle Eastern|Canadian,2,Yorkville,none,False
+U0256,13-17,Greek|Pizza|Vietnamese,4,Little Italy,none,True
+U0257,18-24,Korean|Taiwanese|Middle Eastern,3,Leslieville,none,True
+U0258,55+,Korean|Portuguese|Pizza|Middle Eastern,2,North York,none,True
+U0259,25-34,Middle Eastern|Portuguese|West African,3,Greektown,halal,False
+U0260,25-34,Italian|Portuguese|Chinese|Pizza|Vietnamese,2,North York,none,True
+U0261,18-24,Filipino|Indian,2,North York,none,False
+U0262,25-34,Caribbean|Chinese|Vietnamese,2,Financial District,none,True
+U0263,18-24,Thai|West African|French|Mexican|Korean,2,Greektown,vegan,True
+U0264,18-24,Thai|Taiwanese|American|Japanese|Italian,1,Little Portugal,none,False
+U0265,45-54,American|Middle Eastern|Chinese|Italian|Pizza,2,Greektown,none,True
+U0266,35-44,Greek|Indian|Ethiopian|Italian|Korean,3,Parkdale,none,False
+U0267,55+,Japanese|Italian|Mexican|Thai|Ethiopian,3,Roncesvalles,none,False
+U0268,18-24,Portuguese|Korean,4,King West,none,True
+U0269,45-54,Caribbean|Chinese|Canadian|Ethiopian|Greek,3,Chinatown,none,False
+U0270,45-54,Thai|Portuguese|Chinese|Greek|Indian|Canadian,2,North York,halal,False
+U0271,45-54,American|Italian|Ethiopian,2,Roncesvalles,none,False
+U0272,18-24,Japanese|Portuguese|Taiwanese|Caribbean|Indian|Mexican,2,Koreatown,none,False
+U0273,45-54,Caribbean|Portuguese|Pizza,1,Thorncliffe Park,halal,False
+U0274,45-54,Greek|Thai,2,Waterfront,none,False
+U0275,45-54,Taiwanese|Greek,2,The Annex,halal,False
+U0276,55+,Chinese|Greek|Vietnamese|Italian,2,Parkdale,halal,False
+U0277,45-54,Japanese|Thai|Chinese|Portuguese|West African,4,King West,vegetarian,False
+U0278,45-54,Mexican|Thai,2,Etobicoke,none,False
+U0279,25-34,French|Korean|Japanese|Mexican,3,Little Portugal,vegan,True
+U0280,18-24,Middle Eastern|Filipino|Chinese|Indian,2,Danforth,none,False
+U0281,45-54,American|Middle Eastern|French|Portuguese|Ethiopian|West African,3,King West,none,False
+U0282,18-24,Caribbean|Mexican|Canadian|Taiwanese|Greek,1,Scarborough,none,True
+U0283,35-44,French|Italian,4,Distillery District,none,False
+U0284,25-34,Ethiopian|Chinese|Caribbean|Mexican,1,Waterfront,gluten-free,True
+U0285,45-54,Portuguese|Indian|Greek|Italian|West African,3,Roncesvalles,gluten-free,True
+U0286,25-34,American|Italian|Filipino,2,Financial District,gluten-free,True
+U0287,18-24,Korean|Vietnamese|Thai,2,Koreatown,none,True
+U0288,35-44,Chinese|Korean|Portuguese|Ethiopian|Middle Eastern,2,Little India,gluten-free,False
+U0289,35-44,Thai|Chinese|Indian|Japanese|West African|Mexican,2,Yorkville,gluten-free,False
+U0290,55+,Japanese|Korean|Thai|West African|Canadian|Ethiopian,3,Little Portugal,gluten-free,False
+U0291,35-44,Mexican|Thai|Pizza|West African|Portuguese|French,2,Little Italy,none,True
+U0292,25-34,Thai|Indian|Middle Eastern,1,Forest Hill,none,False
+U0293,18-24,American|Vietnamese|Thai|Taiwanese,2,Greektown,none,True
+U0294,55+,Taiwanese|French|Japanese,1,Greektown,none,True
+U0295,18-24,American|Indian|Portuguese|Japanese|French,3,Liberty Village,none,True
+U0296,18-24,Indian|Caribbean|Chinese,2,Cabbagetown,none,True
+U0297,25-34,Filipino|Pizza|Italian|Korean,3,Leslieville,none,False
+U0298,18-24,Indian|Middle Eastern|Korean|Vietnamese|Pizza,3,Chinatown,none,False
+U0299,18-24,French|Portuguese,4,Etobicoke,none,True
+U0300,25-34,Pizza|French,3,Bloor West Village,none,False
+U0301,45-54,Italian|Japanese|Vietnamese,1,Little Italy,none,False
+U0302,35-44,Canadian|Thai,4,Forest Hill,none,True
+U0303,13-17,Mexican|Canadian|Filipino,3,Midtown,none,True
+U0304,18-24,Vietnamese|Ethiopian|Caribbean|Indian|Taiwanese,2,Thorncliffe Park,none,True
+U0305,18-24,American|Chinese|Pizza|Caribbean|Mexican|Italian,1,Junction,vegan,True
+U0306,25-34,Ethiopian|Portuguese|West African,2,Queen West,vegan,True
+U0307,13-17,Vietnamese|Ethiopian|Filipino|Pizza|Greek,2,Distillery District,none,True
+U0308,55+,Indian|West African|American|Taiwanese|Pizza|Greek,3,Roncesvalles,vegan,False
+U0309,35-44,Korean|Indian|French|Mexican|West African|American,1,Thorncliffe Park,none,False
+U0310,25-34,French|Thai|Middle Eastern|Mexican|Italian,3,Etobicoke,none,True
+U0311,35-44,Taiwanese|Korean|Filipino|Canadian|Indian,3,Parkdale,none,False
+U0312,45-54,Portuguese|Vietnamese|Caribbean|Canadian|Filipino|Japanese,1,Chinatown,none,False
+U0313,35-44,Korean|Italian|Portuguese,3,Leslieville,vegan,False
+U0314,45-54,Italian|Chinese|Vietnamese|French|Ethiopian|Greek,1,Thorncliffe Park,none,True
+U0315,35-44,Portuguese|Korean|French|Greek|Italian,3,The Annex,none,True
+U0316,13-17,American|Portuguese|Taiwanese|Vietnamese|Japanese,2,North York,none,True
+U0317,55+,Greek|Japanese|West African|Korean|American,3,Roncesvalles,none,False
+U0318,25-34,Indian|Portuguese|Caribbean|French|American,2,Little India,none,True
+U0319,25-34,Greek|Filipino|Middle Eastern|French|Ethiopian|West African,3,Leslieville,none,False
+U0320,35-44,Portuguese|Mexican|Italian|Vietnamese,1,Liberty Village,vegetarian,True
+U0321,18-24,Portuguese|Indian|American|Pizza|Vietnamese|Filipino,1,Kensington Market,none,True
+U0322,18-24,Mexican|West African|Japanese,2,Chinatown,halal,True
+U0323,18-24,Portuguese|Thai|Middle Eastern,3,Danforth,halal,False
+U0324,18-24,West African|Indian|Japanese,2,Parkdale,gluten-free,False
+U0325,45-54,Pizza|Indian,1,Chinatown,halal,True
+U0326,18-24,Caribbean|Mexican|Vietnamese,3,Liberty Village,vegetarian,False
+U0327,13-17,Middle Eastern|Ethiopian|Indian|Italian,2,Danforth,none,True
+U0328,45-54,Middle Eastern|Vietnamese|West African|Mexican|Chinese,3,Leslieville,none,False
+U0329,35-44,West African|American|Greek,2,Leslieville,none,False
+U0330,55+,Caribbean|Korean|French|Ethiopian|Filipino|Pizza,4,Little Italy,halal,True
+U0331,25-34,American|Japanese|Canadian,3,Midtown,vegetarian,True
+U0332,35-44,Vietnamese|American|Canadian|Pizza|Middle Eastern|French,3,Thorncliffe Park,none,False
+U0333,55+,French|Italian|Taiwanese|Pizza|Caribbean,3,The Annex,kosher,False
+U0334,45-54,Japanese|Taiwanese,3,Bloor West Village,none,False
+U0335,25-34,Vietnamese|Italian|Chinese|West African|Pizza|Thai,3,Kensington Market,none,True
+U0336,45-54,Thai|Greek|Vietnamese|American|Indian|Caribbean,2,Midtown,none,False
+U0337,18-24,French|Vietnamese,1,King West,none,False
+U0338,45-54,Filipino|Taiwanese|Greek|Caribbean|Vietnamese|Ethiopian,3,North York,vegan,False
+U0339,35-44,Greek|Indian|Middle Eastern|West African|Italian|American,2,Little Portugal,vegetarian,False
+U0340,45-54,Chinese|Japanese,1,Little India,none,False
+U0341,25-34,Canadian|Filipino|Taiwanese|West African|Pizza|American,2,Leslieville,none,False
+U0342,35-44,American|Mexican|Ethiopian|West African|Taiwanese,2,Waterfront,none,False
+U0343,25-34,French|Portuguese|Japanese,4,Yorkville,vegetarian,False
+U0344,18-24,Indian|Pizza|Caribbean|Vietnamese|Japanese,1,Queen West,none,False
+U0345,25-34,Korean|Ethiopian|Filipino|American|Japanese,2,Queen West,gluten-free,True
+U0346,45-54,Korean|Indian|Taiwanese|Caribbean|Chinese,2,North York,halal,False
+U0347,25-34,Canadian|Portuguese|Ethiopian|Taiwanese,2,Parkdale,none,False
+U0348,18-24,Chinese|American|Canadian|Greek,2,Distillery District,kosher,False
+U0349,45-54,Chinese|Mexican|Korean|Vietnamese,1,Scarborough,none,True
+U0350,55+,Filipino|Japanese|West African|Italian|Portuguese|Thai,1,Scarborough,kosher,True
+U0351,13-17,Greek|Filipino|French,2,King West,none,True
+U0352,13-17,Middle Eastern|American,1,Junction,none,True
+U0353,18-24,Indian|Taiwanese,1,Roncesvalles,none,False
+U0354,18-24,Mexican|Japanese|Middle Eastern|Pizza|Korean,2,Chinatown,vegetarian,True
+U0355,25-34,Thai|Canadian|Indian|Japanese,3,North York,none,True
+U0356,25-34,Canadian|Indian|Thai|Japanese|Middle Eastern|Greek,1,Kensington Market,none,True
+U0357,18-24,Thai|Taiwanese,3,Koreatown,gluten-free,False
+U0358,35-44,Vietnamese|Filipino|American,3,Junction,none,True
+U0359,55+,Taiwanese|Mexican|Greek|American,3,Distillery District,gluten-free,True
+U0360,25-34,Vietnamese|Mexican|Korean|Japanese|Portuguese|Ethiopian,3,The Annex,none,False
+U0361,45-54,Filipino|West African|Vietnamese,3,North York,none,True
+U0362,13-17,Ethiopian|Taiwanese,4,Little India,gluten-free,True
+U0363,55+,Middle Eastern|Thai|French|Filipino,4,King West,none,True
+U0364,55+,Korean|Ethiopian|Pizza|Portuguese,1,Greektown,none,False
+U0365,45-54,Canadian|Taiwanese|Chinese|Filipino|Korean,3,Parkdale,kosher,False
+U0366,25-34,Pizza|Caribbean|Canadian|Mexican|Korean,2,Little India,none,True
+U0367,18-24,Thai|Caribbean,3,Midtown,none,True
+U0368,35-44,Portuguese|Caribbean|Japanese,4,Waterfront,none,False
+U0369,13-17,Indian|Thai|West African|Portuguese|Mexican,3,North York,none,True
+U0370,35-44,Chinese|Filipino|Ethiopian,1,North York,vegetarian,False
+U0371,45-54,Italian|Korean|Taiwanese|Thai,4,Kensington Market,vegetarian,False
+U0372,35-44,Middle Eastern|American,2,Chinatown,halal,False
+U0373,25-34,West African|Japanese|Greek|Filipino,2,Parkdale,none,True
+U0374,25-34,Chinese|Filipino|Korean|Greek,2,Little Italy,gluten-free,False
+U0375,18-24,Vietnamese|Chinese|Indian|Korean,3,North York,none,False
+U0376,55+,Greek|Indian|Portuguese|Pizza,3,Cabbagetown,gluten-free,True
+U0377,45-54,Pizza|French,3,North York,vegetarian,True
+U0378,55+,Canadian|Middle Eastern,3,St. Lawrence Market,kosher,True
+U0379,55+,Japanese|Vietnamese|American|Chinese|Indian,3,Queen West,vegan,False
+U0380,25-34,American|Greek|Korean|French|Canadian|Filipino,4,Etobicoke,halal,True
+U0381,35-44,French|West African,2,Chinatown,none,True
+U0382,35-44,Italian|Filipino|Ethiopian|West African|Thai|Mexican,3,Parkdale,none,True
+U0383,18-24,Japanese|Ethiopian,2,Midtown,none,False
+U0384,25-34,Ethiopian|Pizza|Portuguese|Vietnamese|Middle Eastern|Filipino,1,North York,none,False
+U0385,18-24,West African|Taiwanese|Japanese,2,Little India,none,True
+U0386,18-24,Middle Eastern|Italian,3,Parkdale,vegan,True
+U0387,25-34,Filipino|Middle Eastern|Vietnamese|American|Pizza|Chinese,4,Distillery District,none,True
+U0388,55+,Greek|French|Italian,3,Cabbagetown,none,True
+U0389,35-44,Canadian|Mexican|Korean,1,Kensington Market,none,False
+U0390,18-24,Italian|Filipino|Caribbean|Japanese|Korean,2,Koreatown,none,False
+U0391,35-44,Taiwanese|Greek|Mexican|Italian,3,Chinatown,none,True
+U0392,35-44,Indian|Middle Eastern|Italian|Vietnamese|French,3,Financial District,none,True
+U0393,25-34,American|Chinese|Indian|Ethiopian|West African|Canadian,2,Waterfront,none,True
+U0394,35-44,Japanese|Filipino|Italian,2,Little Portugal,halal,True
+U0395,13-17,Ethiopian|West African|Portuguese|Italian,3,St. Lawrence Market,vegetarian,True
+U0396,13-17,Canadian|West African|Caribbean|Portuguese|French|Chinese,2,Waterfront,none,True
+U0397,55+,Thai|Filipino|Canadian|Japanese|Italian,2,Forest Hill,none,True
+U0398,18-24,Canadian|Filipino|Mexican|Caribbean|Thai,1,Little Italy,none,True
+U0399,25-34,Filipino|Japanese|French,2,Parkdale,none,True
+U0400,25-34,Middle Eastern|Thai|Canadian|Korean|Mexican,2,Little Italy,none,True
+U0401,13-17,West African|Taiwanese|Chinese|Thai|Greek|Japanese,2,Scarborough,none,True
+U0402,18-24,Thai|Vietnamese|Pizza|Italian,4,Forest Hill,vegetarian,False
+U0403,35-44,Korean|Vietnamese|Filipino|Caribbean,2,The Annex,halal,False
+U0404,45-54,Portuguese|West African,4,Forest Hill,gluten-free,False
+U0405,18-24,Portuguese|Greek|West African,3,Parkdale,none,False
+U0406,25-34,Middle Eastern|Italian,4,Leslieville,none,True
+U0407,25-34,Korean|Caribbean|Ethiopian|Taiwanese|Vietnamese|Filipino,3,Cabbagetown,none,True
+U0408,18-24,Canadian|Taiwanese|Vietnamese|Middle Eastern|Korean,1,Little Portugal,none,True
+U0409,55+,Filipino|Pizza|Canadian|Taiwanese,2,Scarborough,none,False
+U0410,25-34,Filipino|French|Vietnamese|Chinese,3,Greektown,none,True
+U0411,35-44,Korean|Mexican|Italian|Chinese|Canadian,2,Financial District,none,False
+U0412,25-34,West African|Korean|Mexican|Middle Eastern,2,Greektown,halal,False
+U0413,18-24,Portuguese|Chinese|Canadian|Italian|Ethiopian,2,Cabbagetown,halal,False
+U0414,25-34,Filipino|Vietnamese|Italian|West African|French|Ethiopian,4,Parkdale,none,True
+U0415,25-34,West African|Middle Eastern|Portuguese,3,Bloor West Village,none,True
+U0416,35-44,Caribbean|Vietnamese|Canadian|Mexican|American,4,Bloor West Village,none,False
+U0417,25-34,Filipino|Indian|Canadian,1,Thorncliffe Park,vegetarian,False
+U0418,18-24,Vietnamese|Chinese|Italian|Portuguese|American|Canadian,4,Little Italy,none,False
+U0419,25-34,American|French|Mexican|Thai,1,Kensington Market,none,True
+U0420,35-44,Canadian|Middle Eastern|Pizza|Italian|Taiwanese,2,Waterfront,none,False
+U0421,25-34,Portuguese|French|Chinese|Taiwanese|Greek,2,Liberty Village,vegetarian,False
+U0422,45-54,Korean|Indian|Mexican,2,The Annex,none,True
+U0423,35-44,Thai|Ethiopian,2,Waterfront,none,True
+U0424,35-44,French|Japanese|West African,3,Thorncliffe Park,vegan,True
+U0425,35-44,Japanese|Korean|Pizza|Canadian|Italian,2,Koreatown,gluten-free,True
+U0426,13-17,Korean|Middle Eastern,3,Little Italy,halal,True
+U0427,45-54,Mexican|Japanese|American,3,King West,none,False
+U0428,18-24,Taiwanese|Canadian|American,2,Yorkville,none,True
+U0429,13-17,Korean|Canadian|Italian|French,3,Roncesvalles,none,True
+U0430,25-34,Italian|American,3,Chinatown,none,False
+U0431,45-54,Mexican|Thai|Indian|Middle Eastern|Canadian|West African,3,Little Portugal,gluten-free,False
+U0432,35-44,Portuguese|Chinese|Middle Eastern|Korean,3,The Annex,vegan,False
+U0433,35-44,Filipino|Korean|Greek|Pizza|Indian|Ethiopian,2,Koreatown,none,False
+U0434,13-17,Portuguese|Vietnamese|Italian|Ethiopian,3,Koreatown,none,False
+U0435,35-44,Middle Eastern|Ethiopian|Thai|Pizza|Japanese,4,Midtown,none,False
+U0436,45-54,Middle Eastern|Pizza|Greek,1,Financial District,none,False
+U0437,45-54,Pizza|Canadian|West African,2,Kensington Market,none,True
+U0438,25-34,Japanese|Ethiopian|Italian,2,Scarborough,none,False
+U0439,55+,West African|Chinese|American,2,Bloor West Village,vegetarian,True
+U0440,25-34,Greek|Vietnamese|Filipino|French|Italian|Ethiopian,2,Yorkville,halal,True
+U0441,18-24,American|West African|Pizza|Ethiopian|Portuguese,2,Forest Hill,none,True
+U0442,55+,Pizza|Taiwanese|Ethiopian|Mexican,2,Parkdale,none,True
+U0443,35-44,Chinese|Middle Eastern|Ethiopian|Portuguese|Italian,2,Kensington Market,none,False
+U0444,35-44,Portuguese|Canadian|American|Filipino,2,Liberty Village,gluten-free,True
+U0445,55+,American|Japanese,1,North York,gluten-free,True
+U0446,45-54,Caribbean|West African|Portuguese|Pizza,3,Leslieville,vegetarian,False
+U0447,18-24,Caribbean|Korean,3,Roncesvalles,vegetarian,True
+U0448,55+,Thai|Greek|Mexican,3,Midtown,none,False
+U0449,25-34,Chinese|West African|Italian|American|Mexican|Filipino,3,Junction,none,False
+U0450,35-44,Filipino|Vietnamese|American|Chinese|Indian,3,Yorkville,vegan,False
+U0451,18-24,Canadian|Vietnamese|Korean,3,Kensington Market,gluten-free,True
+U0452,45-54,West African|American|Vietnamese|Filipino|Mexican,2,Little Portugal,none,True
+U0453,18-24,French|Filipino,2,Distillery District,halal,False
+U0454,45-54,Thai|American|French,3,Forest Hill,vegan,False
+U0455,13-17,Canadian|Indian,2,North York,none,True
+U0456,25-34,Korean|Japanese,4,Financial District,none,False
+U0457,55+,Italian|West African,2,Junction,halal,False
+U0458,45-54,Portuguese|Middle Eastern|American|Filipino|Caribbean,2,King West,vegetarian,False
+U0459,55+,Canadian|Japanese|Caribbean|Middle Eastern|Indian,4,The Annex,none,False
+U0460,45-54,Korean|Indian|West African,3,Cabbagetown,none,True
+U0461,25-34,West African|American|Italian|Korean|Middle Eastern,2,Distillery District,none,False
+U0462,35-44,Greek|Portuguese|Canadian|Chinese|Caribbean,4,Liberty Village,none,False
+U0463,45-54,Canadian|Vietnamese,3,Forest Hill,vegan,False
+U0464,35-44,Japanese|Ethiopian|Portuguese|Chinese|Vietnamese|American,2,Forest Hill,vegan,False
+U0465,45-54,Portuguese|Taiwanese,2,Danforth,none,False
+U0466,35-44,American|Korean,4,Thorncliffe Park,none,True
+U0467,18-24,Portuguese|Indian|Ethiopian|Pizza,3,Forest Hill,none,True
+U0468,35-44,Chinese|Middle Eastern|Canadian|Taiwanese|American|West African,2,Queen West,none,True
+U0469,13-17,Italian|Indian|Caribbean|Ethiopian|Middle Eastern|Pizza,1,Distillery District,none,True
+U0470,18-24,American|Middle Eastern|Caribbean|Ethiopian|Greek,1,Forest Hill,none,True
+U0471,18-24,Greek|Portuguese|French|Ethiopian,1,Financial District,vegan,False
+U0472,45-54,Pizza|Middle Eastern,4,Chinatown,none,True
+U0473,45-54,Portuguese|Italian|Pizza|Vietnamese|Canadian|Korean,2,Cabbagetown,gluten-free,False
+U0474,45-54,Japanese|Mexican|Portuguese,2,Cabbagetown,vegetarian,False
+U0475,45-54,Taiwanese|Canadian,3,Yorkville,none,False
+U0476,25-34,Vietnamese|Pizza|Italian|Canadian|Indian|Chinese,3,Forest Hill,none,False
+U0477,45-54,French|Mexican|Ethiopian|Pizza,2,Little Portugal,vegetarian,True
+U0478,45-54,Korean|Caribbean|Indian,4,Little Portugal,vegan,False
+U0479,55+,Japanese|Indian|Caribbean,2,Distillery District,gluten-free,True
+U0480,25-34,Filipino|American|Ethiopian|Canadian,1,The Annex,none,True
+U0481,35-44,Canadian|Chinese|French,3,Roncesvalles,halal,False
+U0482,25-34,Indian|Pizza,2,Financial District,none,False
+U0483,18-24,Filipino|Pizza|Portuguese|Thai|Indian|Canadian,2,Midtown,none,False
+U0484,18-24,Indian|Middle Eastern|Chinese,4,Scarborough,vegetarian,True
+U0485,45-54,Canadian|Taiwanese,3,Junction,halal,False
+U0486,25-34,Taiwanese|Indian|Italian|Filipino|Mexican|American,2,Scarborough,none,True
+U0487,25-34,Ethiopian|Filipino,2,Scarborough,none,True
+U0488,45-54,Indian|West African,4,Greektown,none,False
+U0489,55+,Greek|Vietnamese,4,Thorncliffe Park,none,False
+U0490,35-44,Ethiopian|Filipino|Portuguese|Middle Eastern|Caribbean,2,Waterfront,vegan,True
+U0491,45-54,Japanese|Italian|Ethiopian,3,Little Portugal,none,False
+U0492,18-24,Thai|Ethiopian|American|Chinese,2,Midtown,none,False
+U0493,25-34,Thai|American,1,Little India,gluten-free,True
+U0494,35-44,Caribbean|Filipino|West African,2,Little Portugal,vegan,True
+U0495,45-54,Korean|Greek|Chinese|Thai|Indian,3,Leslieville,none,True
+U0496,35-44,Middle Eastern|Thai|Ethiopian|Greek,1,Koreatown,none,True
+U0497,18-24,Mexican|West African,2,Cabbagetown,vegetarian,False
+U0498,13-17,Filipino|Vietnamese|Taiwanese|Thai,4,Greektown,vegan,True
+U0499,45-54,Caribbean|Taiwanese|Filipino,3,Liberty Village,none,False
+U0500,18-24,Ethiopian|Pizza|Filipino|Canadian|Thai|Korean,3,Yorkville,gluten-free,False
