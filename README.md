@@ -1,6 +1,5 @@
 # Trivvi
 
-## Description
 A food discovery app for Toronto that gives you a personalized restaurant recommendations based on your taste, dietary needs, and neighbourhood. No more scrolling, just decisive picks.
 
 ## Tech Stack
