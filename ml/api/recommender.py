@@ -108,7 +108,7 @@ class SVDModel:
         
         numeric = df[["price_range", "avg_rating", "ttc_accessible", "halal_certified", "kosher_certified"]].astype(float)
         
-        scaler = MinMaxScaler() #make the price_range and avg_rating to 0-1 so they don't overpower anything else
+        scaler = MinMaxScaler() # make the price_range and avg_rating to 0-1 so they don't overpower anything else
         
         numeric[["price_range", "avg_rating"]] = scaler.fit_transform(numeric[["price_range", "avg_rating"]])
 
@@ -121,6 +121,72 @@ class SVDModel:
 		).set_index("restaurant_id")
         
         return feature_matrix, mlb, scaler
+    
+    def build_user_profile(user_id, users, restaurants, interactions, feature_matrix):
+        user_row = users[users["user_id"] == user_id]
+        if user_row.empty:
+            return None
+        user_row = user_row.iloc[0]
+
+        WEIGHTS = {"rated": 1.0, "visited": 0.8, "saved": 0.5, "viewed": 0.2}
+
+        user_ints = interactions[interactions["user_id"] == user_id].copy()
+        user_ints["weight"] = user_ints.apply(
+            lambda r: (r["rating"] / 5.0) if pd.notna(r["rating"]) else WEIGHTS.get(r["interactions_type"], 0.2),axis = 1)
+        
+        interacted_ids = user_ints["restaurant_id"].values
+        valid_ids = [rid for rid in interacted_ids if rid in feature_matrix.index]
+
+        if valid_ids:
+            weights = user_ints[user_ints["restaurant_id"].isin(valid_ids)]["weight"].values
+            vectors = feature_matrix.loc[valid_ids].values
+            profile = np.average(vectors, axis=0, weights=weights)
+        else:
+            profile = np.zeros(feature_matrix.shape[1])
+        
+        preferred_cuisines = user_row["preferred_cuisines"].split("|")
+        for cuisine in preferred_cuisines:
+            col = f"cusine_{cuisine}"
+            if col in feature_matrix.columns:
+                idx = feature_matrix.columns.get_loc(col)
+                profile[idx] = min(profile[idx] + 0.3, 1.0)
+        diet = user_row["dietary_restrictions"]
+        transit = user_row["transit_dependent"]
+
+        # vegan and vegetarian are hard requirements
+        if diet == "vegan":
+            if "tag_vegan-friendly" in feature_matrix.columns:
+                profile[feature_matrix.columns.get_loc("tag_vegan-friendly")] = min(
+                    profile[feature_matrix.columns.get_loc("tag_vegan-friendly")] + 0.4, 1.0)
+        elif diet == "vegetarian":
+            if "tag_vegetarian-friendly" in feature_matrix.columns:
+                profile[feature_matrix.columns.get_loc("tag_vegetarian-friendly")] = min(
+                    profile[feature_matrix.columns.get_loc("tag_vegetarian-friendly")] + 0.3, 1.0)
+        elif diet == "halal":
+            if "halal_certified" in feature_matrix.columns:
+                profile[feature_matrix.columns.get_loc("halal_certified")] = 1.0
+        elif diet == "kosher":
+            if "kosher_certified" in feature_matrix.columns:
+                profile[feature_matrix.columns.get_loc("kosher_certified")] = 1.0
+
+        if transit:
+            if "ttc_accessible" in feature_matrix.columns:
+                profile[feature_matrix.columns.get_loc("ttc_accessible")] = 1.0
+
+        if "price_range" in feature_matrix.columns:
+            profile[feature_matrix.columns.get_loc("price_range")] = (user_row["price_sensitivity"] - 1) / 3.0
+
+        return profile
+    def content_based_scores(user_profile, feature_matrix):
+        rest_vectors = feature_matrix.values.astype(np.float64)
+        norm_profile = np.linalg.norm(user_profile)
+        norm_rests = np.linalg.norm(rest_vectors, axis=1) # calculate length of every restaurant vector row by row
+
+        denom = norm_profile * norm_rests
+        denom[denom == 0] = 1e-9 # replace zeros with extremely tiny number since if denom 0, error occurs.
+
+        similarities = (rest_vectors @ user_profile) / denom # divide by lengths to normalize and give a value between 0 and 1
+        return pd.Series(similarities, index=feature_matrix.index)
 
 
 # 2. Content-Based Filtering
